@@ -1,0 +1,1215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The regulating silver coin made practicable and easie to the government and subject humbly submitted to the consideration of both Houses of Parliament / by a lover of his country.</title>
+            <author>Pratt, Samuel, 1659?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 103 KB of XML-encoded text transcribed from 64 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55640</idno>
+            <idno type="STC">Wing P3184</idno>
+            <idno type="STC">ESTC R8943</idno>
+            <idno type="EEBO-CITATION">13739565</idno>
+            <idno type="OCLC">ocm 13739565</idno>
+            <idno type="VID">101656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101656)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The regulating silver coin made practicable and easie to the government and subject humbly submitted to the consideration of both Houses of Parliament / by a lover of his country.</title>
+                  <author>Pratt, Samuel, 1659?-1723.</author>
+               </titleStmt>
+               <extent>[2], 125, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Bonwick ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Samuel Pratt.  Cf. DNB.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101656:1"/>
+            <pb facs="tcp:101656:1"/>
+            <p>THE REGULATING Silver Coin, Made Practicable and Eaſie, TO THE GOVERNMENT AND SUBJECT.</p>
+            <p>Humbly ſubmitted to the Conſideration of both Houſes of Parliament.</p>
+            <p>By a Lover of his Country.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Bonwick,</hi> at the
+<hi>Red-Lion</hi> in St. <hi>Paul</hi>'s Church-Yard. 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:101656:2"/>
+            <pb n="1" facs="tcp:101656:2"/>
+            <head>THE REGULATING Silver Coin, <hi>&amp;c.</hi>
+            </head>
+            <p>VVRiting on ſo curious, and intricate a Subject, I have great Reaſon to beſpeak the Candour of the Reader.</p>
+            <p>A Book of this Nature cannot but expect to meet with great Oppoſition, and 'tis very probable from Two ſorts of Men eſpecially,
+<hi>viz.</hi> Thoſe that know little of the Subject-Matter, and thoſe that know much.</p>
+            <pb n="2" facs="tcp:101656:3"/>
+            <p>They that know little are Jealous, and they that know much Opiniatre, and whilſt one will not take Pains to comprehend a thing, another taketh too much to overthrow it.</p>
+            <p>But as I hope I ſhall ſay nothing here, to be pity'd; ſo I am on the o<g ref="char:EOLhyphen"/>ther ſide pretty ſecure from Envy, be<g ref="char:EOLhyphen"/>cauſe, the greateſt Credit that can be gotten, by a thing of this Nature,
+<note place="margin">
+                  <hi>Mr.</hi> Lowndes.</note> doth already ſeem to be engroſs'd by a late learned and induſtrious Writer upon this Subject.</p>
+            <p>It was, I muſt needs ſay, a prudent piece of Service the
+<hi>Lords of the Trea<g ref="char:EOLhyphen"/>ſury</hi> did the Nation, and more parti<g ref="char:EOLhyphen"/>cularly the
+<hi>Parliament,</hi> under whoſe Judgment this matter juſtly falls, by imploying ſo able a Pen to clear the way, in giving a true, and entertain<g ref="char:EOLhyphen"/>ing Account of Matter of Fact.</p>
+            <pb n="3" facs="tcp:101656:3"/>
+            <p>But I muſt do my ſelf that little piece of Juſtice too, as to acknowledge the main Deſign of theſe Papers was laid before I could have a ſight of that Book:</p>
+            <p>And now I am ready enough to confeſs my own Weakneſs, and Inſuffi<g ref="char:EOLhyphen"/>ciency, for ſo great an Undertaking; nor do I pretend to write a Stile equal to that experienc'd Miniſter, but am contented to be underſtood without ſhining, and to offer Mathematical Reaſoning, without poliſhing and Or<g ref="char:EOLhyphen"/>nament.</p>
+            <p>When I at firſt form'd the whole Scheme, I had more Leiſure, by much, than when I put it in Writing, and I can better anſwer for my Deſign, than for my way of expreſſing it; and there<g ref="char:EOLhyphen"/>fore all the Favour I expect or ask, is, that the <hi>Theorem,</hi> which is the main of the Work, may not ſuffer for the Inar<g ref="char:EOLhyphen"/>tificialneſs of the <hi>Problems</hi> that lead to it.</p>
+            <pb n="4" facs="tcp:101656:4"/>
+            <p>I affect Truth and Plainneſs, and a ſincere Love to my Country.</p>
+            <p>Whatſoever I have read or heard on this Subject, hath brought the Matters to this <hi>Dilemma,</hi> that either Coin muſt want of its intrinſic Value, ſo as to diſatisfie moſt of the King's loving Subjects, and endanger a fatal ſtop to Trade; or if it is to be made of near an intrinſic Value, according to the Rate Silver ſhall go at in the time of Coining, then upon every little Riſe of Silver higher than that Price, we are in danger of having it ex<g ref="char:EOLhyphen"/>ported and melted down; and ſo e<g ref="char:EOLhyphen"/>very Parliament may meet with the ſame Difficulties we at preſent labour under in the badneſs and ſcarcity of Sil<g ref="char:EOLhyphen"/>ver Coin.</p>
+            <pb n="5" facs="tcp:101656:4"/>
+            <p>That which I pretend to, is, to ob<g ref="char:EOLhyphen"/>viate both theſe Dangers, or otherwiſe I confeſs I might have ſpar'd my Pains; for he who hath provided for one and not the other, hath at the beſt but done <hi>half the Work.</hi>
+            </p>
+            <p>There are three Terms of Value, up<g ref="char:EOLhyphen"/>on the right Underſtanding of which, much depends, <hi>viz. Extrinſic, Intrinſic, Real.</hi>
+            </p>
+         </div>
+         <div type="definition">
+            <pb n="6" facs="tcp:101656:5"/>
+            <head>DEFINITIONS.</head>
+            <p>
+               <hi>EXtrinſic Value</hi> of Money is the Denomination and Power, that is given it by Authority.</p>
+            <p>
+               <hi>Intrinſic Value</hi> is the neceſſary and Natural Value, always and every where inherent in the Species.</p>
+            <p>
+               <hi>Real Value</hi> is a Certain Value more or leſs than Extrinſic, or Intrinſic, ad<g ref="char:EOLhyphen"/>herent to the Species, with reſpect to time and place.</p>
+            <p>TWO things are now under Con<g ref="char:EOLhyphen"/>ſideration. 1. The Badneſs of our Sil<g ref="char:EOLhyphen"/>ver Coin.</p>
+            <p n="2">2. The Scarcity of it.</p>
+         </div>
+         <div n="1" type="chapter">
+            <pb n="7" facs="tcp:101656:5"/>
+            <head>CHAP. I. <hi>Of the preſent badneſs of our Coin</hi>
+            </head>
+            <p>BY Current Coin, I mean not that which is Current by Law, but by Cuſtom; that which People are forc'd to take for want of better, to the great Grievance of the Subject, Diſhonour of the Kingdom, and Ob<g ref="char:EOLhyphen"/>ſtruction of Trade.</p>
+            <p>For every Man now is deſtitute of a ſufficient Pledge and Security for his Perſonal Eſtate, unleſs he will take Perſonal Security, or find out a Mort<g ref="char:EOLhyphen"/>gage, or rely upon a Bank.</p>
+            <p>Perſonal Security is now leſs than e<g ref="char:EOLhyphen"/>ver, the publick Banks have ſo drain'd
+<pb n="8" facs="tcp:101656:6"/>or ſo engag'd at leaſt the Traders in Money.</p>
+            <p>Mortgages are very hard to be found, for ſmall Summs, and much har<g ref="char:EOLhyphen"/>der for great ones, ſince the eſtabliſh<g ref="char:EOLhyphen"/>ment of the new Banks.</p>
+            <p>And as for a ſole reliance on the Cre<g ref="char:EOLhyphen"/>dit of the new Banks I leave that for other Hoads to diſcuſs; I am of the Opinion it was never intended that they ſhould be the only Security for Perſonal Eſtates, and that People ſhould carry in their Money to 'em out of ne<g ref="char:EOLhyphen"/>ceſſity, and not choice.</p>
+            <p>And how diſhonourable it is to the King and Kingdom that our Money ſhould be ſo ſuddenly debaſed to ſuch a ſhameful Degree, foreign States will ſoon determine:</p>
+            <p>Now that it doth not become ſo by publick Authority but by Conni<g ref="char:EOLhyphen"/>vence of the Sovereignty, or Neceſſities
+<pb n="9" facs="tcp:101656:6"/>of the Nation, is not ſtating the thing at all leſs Diſhonourably.</p>
+            <p>For Connivence at a Fault diſcovers either an Ignorance of it, or Inability to correct it, or deſign in making uſe of it.</p>
+            <p>'Tis plain enough the Government is not Ignorant of it.</p>
+            <p>His Majeſty in His Speech to both Houſes of Parliament, ſhews He hath no deſign in making uſe of it, becauſe He recommends the redreſſing of it to their Conſideration, and therefore the not redreſſing it, can be only imputa<g ref="char:EOLhyphen"/>ble to the Weakneſs and Poverty of the State:</p>
+            <p>And what Inferences, not only the <hi>French,</hi> but all other Politicians may draw from thence are very obvious.</p>
+            <p>The fineſt Clothes that our Soldiers can put on, in the Field, would not
+<pb n="10" facs="tcp:101656:7"/>at all dazzle the Eyes of the Confede<g ref="char:EOLhyphen"/>rate. Princes, nor ſtrike any deſponden<g ref="char:EOLhyphen"/>cies into the Minds of our Enemies, if they ſhall all come to know that the whole Power of <hi>England</hi> is at this time held up by the imaginary Value of <hi>Birmingham</hi> half Crowns and Shillings.</p>
+            <p>It will hearten our Enemies, and diſcourage our Friends, very much, when they ſhall come to know that the Nummary Wealth of
+<hi>England</hi> is al<g ref="char:EOLhyphen"/>moſt vaniſh'd, the Silver Coin gone, and the Royal Mint at a ſtand.</p>
+            <p>No Body will believe that we can long ſubſiſt at this rate; and indeed 'tis impoſſible we ſhould, for if 'tis now much harder to redreſs than it was a year ago, and that means can<g ref="char:EOLhyphen"/>not be yet found out to do it, what Hopes ſhall we have of ever doing it 'till the War is ended? and what Hopes ſhall we have of bringing our Enemies to Terms, whilſt they are ſen<g ref="char:EOLhyphen"/>ſible of our great Poverty.</p>
+            <pb n="11" facs="tcp:101656:7"/>
+            <p>The only way, ſure, to bring the <hi>French</hi> King to Reaſon, will be by ſhewing him we are Able to continue the War as long as he can poſſibly be Willing, which he can never be<g ref="char:EOLhyphen"/>lieve, ſo long as he ſees our Money, by which he judges our Wealth to be imaginary only, and not real Silver.</p>
+            <p>Beſides all this, we are in apparent Danger hereby of being more effe<g ref="char:EOLhyphen"/>ctually and ſuddenly ruin'd by our Friends.</p>
+            <p>For if this Seſſions of Parliament ſhould break up without regulating the Coin, what Conſequences may poſ<g ref="char:EOLhyphen"/>ſibly enſue?</p>
+            <p>It is not impoſſible that Foreigners in all parts of
+<hi>Chriſtendom</hi> ſhould ime<g ref="char:EOLhyphen"/>diately ſet themſelves to counterfeit our baſe Money.</p>
+            <pb n="12" facs="tcp:101656:8"/>
+            <p>There are beyond Seas as good Chymiſts, and Black Smiths as at
+<hi>Lon<g ref="char:EOLhyphen"/>don,</hi> or <hi>Birmingham,</hi> and 'tis not impoſ<g ref="char:EOLhyphen"/>ſible that they ſhould ſecretly Import as much baſe Money, reſembling that which goes current among us, and which hath not the intrinſic Value of One Shilling in Three, as if they pleaſe may not only buy up and Ex<g ref="char:EOLhyphen"/>port Two or Three Millions Worth of our Staple Commodities, affording 'em Cheaper abroad than we can at home; but as much Worth of our imported Commodities, even Gold it ſelf, if they like that Trade better.</p>
+            <p>Such an Importation of Money would I fear, be of worſe Conſequence than all our Exportation of Silver and Gold can prove.</p>
+            <p>If what coſt our Merchants a Shil<g ref="char:EOLhyphen"/>ling, they ſhould ſell for a Groat, or if they ſhall buy of us an Ounce of Gold for Three or Four Ounces of Silver, or ſuppoſing 'em to buy it at
+<pb n="13" facs="tcp:101656:8"/>6 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <hi>
+                  <abbr>d.</abbr> per</hi> Ounce, they ſhall buy an Ounce for as much Counterfeit Mo<g ref="char:EOLhyphen"/>ney as ſhall not have 7 Peny-Weight of true Bullion in it, this would give our Balance of Trade, ſuch a Terri<g ref="char:EOLhyphen"/>ble Swing, as no true Hearted
+<hi>Engliſh-Man</hi> would be willing to ſee.</p>
+            <p>This is a Danger which the eaſineſs and ſmall Charge of counterfeiting old Clipp'd Money threatens very much, unleſs it be ſpeedily cry'd down.</p>
+            <p>And in the mean time, let us conſider the Condition of the other Coin a<g ref="char:EOLhyphen"/>mong us, not counterfeited, but Clip'd, fil'd, or otherwiſe diminiſh'd.</p>
+            <p>'Tis plainly demonſtrable by the Receipts of Money in His Majeſty's Exchequer, that one half of the Silver is already Clipp'd away, and there is no Security why half what remains wo'n't be taken off too.</p>
+            <pb n="14" facs="tcp:101656:9"/>
+            <p>The Laws are ſevere enough made, and put in Execution, and yet
+<hi>New-Gate</hi> is perhaps now as full of Clippers as it was Three or Four Years ago.</p>
+            <p>Nothing but a Senſe of Religion doth reſtrain Men from profitable Sins, and the <hi>Ordinary</hi> of <hi>New-Gate</hi> can inform us, how little the Guilt of Clipping affects the Criminal's Conſcience.</p>
+            <p>Nor will preaching do much Good, upon thoſe that never come to Church.</p>
+            <p>Clipping is the gainfuleſt Sin that ever was invented, and ſits the eaſieſt upon the Sinner's Mind, and 'tis ne<g ref="char:EOLhyphen"/>ver to be remedied but by making it impracticable, which Mill'd Money only (and no other to be currant) can do.</p>
+            <p>And what a perpetual Diſcontent and Confuſion muſt it end in, if People ſhall come at laſt to proffer a Groat for a Shilling?</p>
+            <pb n="15" facs="tcp:101656:9"/>
+            <p>This muſt increaſe ſtill vaſtly the Value of Guineas; this muſt raiſe the Price of all Commodities, this muſt make it impoſſible to expect any Mo<g ref="char:EOLhyphen"/>ney at all, either for the King's Uſe, or Balance of Trade; and this will not only force us to recall our Troops from <hi>Flanders,</hi> and by a natural Con<g ref="char:EOLhyphen"/>ſequence let in the War upon us, but it would put a ſudden and univerſal ſtop to all Foreign Trade.</p>
+            <p>And what fatal Conſequences may it have in the mean time at home let us conſider.</p>
+            <p>It may very well be ſuppos'd that a Dragooner may proffer to a Corn-Chandler 2 <abbr>
+                  <hi>s.</hi>
+               </abbr> for a Buſhel of Oats, and that the Corn-Chandler ſeeing that there is not Three Peny <hi>wt.</hi> or 9 Peny worth of Silver in both the Shillings, ſhould not like the Bargain, what's now to be done?</p>
+            <pb n="16" facs="tcp:101656:10"/>
+            <p>Should There be a Law with Pe<g ref="char:EOLhyphen"/>nalty for refuſing clipp'd Coin, as there is for crack'd Six pences, this would encourage Clippers to leave no<g ref="char:EOLhyphen"/>thing remaining in a Shilling but the Figure XII.</p>
+            <p>Should the Law prohibit the paſſing of all Silver clipp'd within the Ring, than two Thirds of the preſent Money of <hi>England</hi> would be immediately cry'd down: Then the Loſs of clipp'd as well as counterfeit Money would be very hard upon the Proprietors, and we ſhould have two Thirds leſs Money for carrying on our Trade:</p>
+            <p>And now we have two Thirds leſs than we ſhould have, and if that two Thirds, which is cry'd down at the Owner's Loſs, ſhould be carry'd to the Mint, and new coin'd, it would ſcarce yield a twelfth Part of what we ſhould then want.</p>
+            <pb n="17" facs="tcp:101656:10"/>
+            <p>If the Law ſhould put down all Sil<g ref="char:EOLhyphen"/>ver Money but of ſuch a Weight, then cer<g ref="char:EOLhyphen"/>tainly all Money above that Weight would be clipp'd down to it, and every Man muſt carry a pair of Scales in his Pocket, and we are ſtill ſubject to the Conſequence of the former Paragraph, as that former Paragraph would be to the firſt Concluſion of this, <hi>viz. That all Money would be ſoon clip'd down to the pub<g ref="char:EOLhyphen"/>lick Standard.</hi>
+            </p>
+            <p>Let the matter be canvas'd never ſo much, it muſt at laſt come to this Con<g ref="char:EOLhyphen"/>cluſion.</p>
+            <p>
+               <hi>We cannot ſubſiſt either in War or Peace if the Coin of</hi> England <hi>be not ſpeedily regula<g ref="char:EOLhyphen"/>ted.</hi>
+            </p>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="18" facs="tcp:101656:11"/>
+            <head>CHAP. II. <hi>Of the preſent</hi> Scarcity <hi>of Silver Coin in</hi> England.</head>
+            <p>NOw let us conſider, that if all the current Silver Coin of
+<hi>England</hi> were paſſable and unalterable, yet we have vaſtly too little in Tale for carry<g ref="char:EOLhyphen"/>ing on the Trade of the Nation.</p>
+            <p>And this will appear ſeveral Ways, but chiefly by the high Price of Guineas and the Cauſes thereof.</p>
+            <p>Guineas have riſen from 21 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6
+<abbr>
+                  <hi>d.</hi>
+               </abbr> to 30 <abbr>
+                  <hi>s.</hi>
+               </abbr> either becauſe the intrinſic Value of Gold hath riſen near in Proportion to the Diminution of the intrinſic Va<g ref="char:EOLhyphen"/>lue of Silver Coin, or by reaſon of the Scarcity of the Silver Coin, or the Uncer<g ref="char:EOLhyphen"/>tainty of it, or partly by Reaſon of one, and partly t'other, which I believe is the Truth, that the Badneſs and Scarcity of
+<pb n="19" facs="tcp:101656:11"/>Silver Coin hath occaſioned an extrava<g ref="char:EOLhyphen"/>gant Riſe of Gold.</p>
+            <p>Now if ſo much as concerns the Scar<g ref="char:EOLhyphen"/>city of Silver be granted me, then I have nothing to do upon this Article, but ſhew that the preſent high Price of Gold is dan<g ref="char:EOLhyphen"/>gerous to the Nation, and more dange<g ref="char:EOLhyphen"/>rous will a farther Advance of the Price thereof be.</p>
+            <p>And to them who think the Badneſs of our Coin the greateſt Reaſon of the preſent high Valuation of Gold, I ſhall in the mean time ſay, that if the Price of Gold hath riſen, ſuppoſe 4
+<abbr>
+                  <hi>s.</hi>
+               </abbr> or 5 <abbr>
+                  <hi>s,</hi>
+               </abbr> in a Guinea, upon the Account only of the Baſeneſs of our Silver Coin; then in hand<g ref="char:EOLhyphen"/>ling that Notion we muſt look upon Gold not ſo much a Coin as a Com<g ref="char:EOLhyphen"/>modity, and ſo indeed it is at this Pre<g ref="char:EOLhyphen"/>ſent; becauſe the Price of Gold in the Oar or Ingott hath riſen almoſt propor<g ref="char:EOLhyphen"/>tionably to that which is coin'd; ſo that a Man doth not take a Guinea rather than 29 clipp'd Shillings, becauſe the
+<pb n="20" facs="tcp:101656:12"/>King's Impreſs is upon it; for ſo 'tis upon the Shillings; or becauſe Authori<g ref="char:EOLhyphen"/>ty has made it paſs ſo, for that Autho<g ref="char:EOLhyphen"/>rity is wanting; but becauſe it is of a greater intrinſic Value than is in 29 Shil<g ref="char:EOLhyphen"/>lings of clipp'd or counterfeit Money, which is now moſt current: So that the Valuation of the Commodity Gold hath encreaſed as the intrinſic Value of our Silver Coin hath decreaſed.</p>
+            <p>And if ſo, then it is to be ſuſpected that the Price of all ſtaple Commodities have encreaſed in equal Proportion, or that they are in ſuch a Proportion now higher than they wou'd have been; for Gold and Silver being reciprocally the Standards and Meaſures of Proportion of one another, are ſo of every thing elſe; and if I can now buy as many Ounces and Peny - Weights of Silver for a Guinea, as I could have done former<g ref="char:EOLhyphen"/>ly, then is not Silver Riſen more then Gold? and if I can buy as many Grains of Gold now with an Ounce of Silver as I could formerly, then is not
+<pb n="21" facs="tcp:101656:12"/>Gold riſen more than Silver. And this is, perhaps more than a Suppoſition: For when Silver was 5
+<abbr>
+                  <hi>s.</hi>
+               </abbr> an Ounce, I cou'd buy 4 Ounces 6 Peny-wt. with a Guinea, and ſo I can now, that Silver is 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6
+<hi>
+                  <abbr>d.</abbr> per</hi> Ounce. Again when Gold was about
+3<abbr>
+                  <hi>l.</hi>
+               </abbr>. 14<abbr>
+                  <hi>s.</hi>
+               </abbr> an Ounce, I cou'd buy an Ounce of Gold with 15 Ounces of Silver, and ſo I can now, or near the Matter: So that the Commodities of Gold and Silver an<g ref="char:EOLhyphen"/>ſwer one another as they did, or near thereabout, abating only for the Portable<g ref="char:EOLhyphen"/>neſs of Gold and its Coinage; whereas no Coinage is now allowable for thoſe Pieces of Silver wherein the Coinage is defaced and ſpoiled; and if thoſe two Commodities are ſo much higher than they would have been: For they are the Meaſure and Rule of Proportion of all. Then when the Value of Gold and Silver riſes, the intrinſic Value of all Commodities riſe with 'em:</p>
+            <p>For ſuppoſean <hi>Eaſtland</hi> or <hi>Hamburgh</hi> Mer<g ref="char:EOLhyphen"/>chant brings over a Barrel of Mum, which he (when our Money was old Standard)
+<pb n="22" facs="tcp:101656:13"/>ſold for 3 <abbr>
+                  <hi>l.</hi>
+               </abbr> he diſliking our Money now, ſells his Mum, not according to the ex<g ref="char:EOLhyphen"/>trinſic Valuation of our Money, which is riſen ſince he was here laſt; becauſe the Intrinſic is diminiſhed, but according to the common Value of Gold and Silver in the World; and therefore requires now 4 <abbr>
+                  <hi>l.</hi>
+               </abbr> becauſe he judges our Silver to be a fourth Part worſe than it was, or if at 5 <abbr>
+                  <hi>l.</hi>
+               </abbr> he judges it to be 2 Parts in 5 worſe.</p>
+            <p>Again, ſuppoſe he ſells his Mum for Gold, or is to exchange his Silver for Gold, that which he was wont to ſell for 3 Guineas, he expects
+3 Guineas for ſtill; or if you are to pay him in Silver, he ex<g ref="char:EOLhyphen"/>pects as much as he can change for 3 Guineas, he wo'nt be fobb'd off with leſs: So the Merchant ſells as cheap as ever; but we pay more, becauſe what we pay, is dearer than it was.</p>
+            <p>You'll object againſt this way of rea<g ref="char:EOLhyphen"/>ſoning, and ſay tis the Riſques of the Sea, and Obſtructions of Trade now in Time of War, makes all foreign Com<g ref="char:EOLhyphen"/>modities dearer.</p>
+            <pb n="23" facs="tcp:101656:13"/>
+            <p>But I hope I don't err in ſaying, that the Merchant notwithſtanding the War wou'd take leſs of our Silver Coin for the ſame Commodities if it were bet<g ref="char:EOLhyphen"/>ter, and leſs Gold of us if it wou'd buy as much Silver in his own Coun<g ref="char:EOLhyphen"/>try.</p>
+            <p>And there are Reaſons which may ballance the Dangers of the Seas in Times of War in Reference to our Commerce with the Subjects of Neu<g ref="char:EOLhyphen"/>tral Princes.</p>
+            <p>On our ſide Taxes are great, and the Subject cannot afford to buy ſo many foreign Commodities as at other times: And on their ſide they have not ſo good a Vent as they had; ſo their Commodities muſt ſtick on hand unleſs ſold ſo cheap as may make amends for the Hazards of the Sea, and the Cheapneſs of Commo<g ref="char:EOLhyphen"/>dities wou'd be the natural Effects of Scarcity of Money, if our Money had the ſame real Value as formerly.</p>
+            <pb n="24" facs="tcp:101656:14"/>
+            <p>Again a Collier who trades to <hi>New<g ref="char:EOLhyphen"/>caſtle</hi> is wont to receive a Guinea for eve<g ref="char:EOLhyphen"/>ry Chaldron of Coals he brought into the River at ſuch a Time of Year, and ſo he doth ſtill, and no more; and who can ſay Coals are riſen and Mum it riſen? No ſuch thing; but Gold and Silver are riſen: And when we give the ſame Gold and Silver for a Com<g ref="char:EOLhyphen"/>modity as we did, we wrongfully ſay the Commodity is dear, when 'tis not that but the Gold and Silver which coſts us more. We give the ſame Labour, the ſame Leather, the ſame Mault, for the ſame Quantity of Gold and Sil<g ref="char:EOLhyphen"/>ver which we did.</p>
+            <p>And now 'tis the Country Gentle<g ref="char:EOLhyphen"/>men, Artizans and Day-Labourers have the hardeſt Bargain of all</p>
+            <p>The Farmer ſells his own Corn and Cattle according to the Value of Gold and Silver, and the Mercer his Silks, and the Draper his Cloth, and the Tanner his Leather; but the Farmer in the mean time pays his Rent, and Huſ<g ref="char:EOLhyphen"/>bandmen,
+<pb n="25" facs="tcp:101656:14"/>and Artizans, according to the Value of our preſent Coin, and when he paid 28 Guineas a Quarter formerly, twenty ſhall ſerve turn now; and the Scrivener buys the Country Gentlemen's Lands, according to the Valuation of Coin, and not Metal; and the Land which coſt the Father 600 Guineas, is now ſold by the Son for 430; and half a Year hence it may be proffered for 300. This is nothing but Ruine and Confuſion to the Land<g ref="char:EOLhyphen"/>ed Men of the Kingdom.</p>
+            <p>But if the Buyers of Land, as the Mer<g ref="char:EOLhyphen"/>chants, Bankers and Scriveners are, were Sellers too, we ſhould find Land riſe in Proportion to every thing elſe.</p>
+            <p>And whereas you'll ſay that Farmers and Graſiers are no Merchants, and wou'd be as well contented with paſſable Coin as old Standard, 'tis very true, but they keep up to ſuch Prices as their whole-ſale Chapmen can afford to give 'em; and when a Factor ſells his
+<pb n="26" facs="tcp:101656:15"/>Cloth at <hi>Blackwell-Hall,</hi> he conſiders the Neceſſity of the Buyer, as well as Ex<g ref="char:EOLhyphen"/>pence of the Clothier; when a Mer<g ref="char:EOLhyphen"/>chant can make a better Profit, 'tis ex<g ref="char:EOLhyphen"/>pected he ſhould give a bettter Price.</p>
+            <p>But this with ſome unthinking People is the Effect of War; and be<g ref="char:EOLhyphen"/>cauſe ſome things are dearer upon this Account than others, therefore every thing elſe that is dearer muſt have the ſame Cauſe aſſigned; but a general Cheapneſs of things ſhould, methinks, be the Natural Effect of our War, if our Money with which we go to Market were as it ſhould be.</p>
+            <p>The War conſumes but little of our Product and Manufacture; it carries a great many Mouthes into <hi>Flanders,</hi> and that would naturally make Proviſions cheap: Many of theſe Mouths had idle Hands, and ſo they are not miſs'd in the Manufacture; but inſtead of them, a great many induſtrious Foreigners come among us who eat little and work much.</p>
+            <pb n="27" facs="tcp:101656:15"/>
+            <p>The Taxes, as I ſaid, are great In<g ref="char:EOLhyphen"/>ducements to Frugality, and the Advan<g ref="char:EOLhyphen"/>tages People have of late made of Money, have been no leſs.</p>
+            <p>Theſe and other ſuch like things if the Price of Gold and Silver had not riſ<g ref="char:EOLhyphen"/>en, muſt have occaſion'd a Fall of moſt other Commodities.</p>
+            <p>And now let us conſider the Danger of the high Price of Gold as it ſtands at preſent.</p>
+            <p>Coin is the moſt portable Commodi<g ref="char:EOLhyphen"/>ty, and Gold the moſt portable Coin; but we have run it up high, and therefore do'nt at preſent fear Exportation; but then, if 'tis conſiderably higher than a<g ref="char:EOLhyphen"/>mong our Neighbours, there is great Rea<g ref="char:EOLhyphen"/>ſon to fear too great an Importation may be as dangerous, as a diſadvantagious one doth already prove.</p>
+            <p>It ſeems to me ſo curious and nice a Commodity that always there may be Danger in it.</p>
+            <pb n="28" facs="tcp:101656:16"/>
+            <p>If in the great Thirſt that's now upon us, we take in too much that will occaſion a ſtill more dangerous Riſe of Silver: For conſidering the preſent Balance of Trade, the more Gold is imported, the leſs there will be of Silver; and if we import too little, we leave our ſelves de<g ref="char:EOLhyphen"/>ſtitute of a Way of Trading.</p>
+            <p>And if the Gold which is our preſent Support ſhould by the Craft of Foreign<g ref="char:EOLhyphen"/>ers or neceſſities of the War follow the Silver out of the Nation, we ſhould be left, I doubt in a very bad Condition.</p>
+            <p>And if its Value ſhould riſe as it muſt needs do if the Silver Coin grow worſe and worſe, then by how much it riſes, by ſo much more all the Inconveniencies and Dangers of its late Riſe among us will encreaſe.</p>
+            <p>What thoſe Dangers are at preſent is no great Myſtery, the
+<hi>Engliſh</hi> Metchants will make none of it if they may be heard.</p>
+            <pb n="29" facs="tcp:101656:16"/>
+            <p>The melancholly Letters which their Factors abroad daily ſend
+'em makes the Caſe plain.</p>
+            <p>That a Guinea in <hi>Holland</hi> and <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> is now but 26 <abbr>
+                  <hi>s.</hi>
+               </abbr> or to ſpeak more properly and plainly too, ſo many Ri<g ref="char:EOLhyphen"/>als, or Dolars and Stivers as bear Pro<g ref="char:EOLhyphen"/>portion to 26
+<abbr>
+                  <hi>s.</hi>
+               </abbr> of our Money</p>
+            <p>At that Rate they there buy our Gui<g ref="char:EOLhyphen"/>neas of Officers, which they can't be hin<g ref="char:EOLhyphen"/>dered carrying over in their Pocket; then the <hi>Holland</hi> and
+<hi>Flemming</hi> Merchants ſend back to us the ſame Guineas to buy therewith our Staple Goods and Manu<g ref="char:EOLhyphen"/>factures.</p>
+            <p>Here they are received at 30 <abbr>
+                  <hi>s.</hi>
+               </abbr> And their Factors here who buy our Ma<g ref="char:EOLhyphen"/>nufactures as cheap of the Clothier or Stocking-Seller as our own Merchants, ſend back for 1000 Guineas. (for In<g ref="char:EOLhyphen"/>ſtance) Received from <hi>Holland</hi> 1500 Pounds worth of our Goods, which when the <hi>Dutch</hi> or <hi>Flemming</hi> Merchant receives,
+<pb n="30" facs="tcp:101656:17"/>he finds by his Accompts that theſe Goods ſtand him in no more than 1300 <abbr>
+                  <hi>l.</hi>
+               </abbr> So that he has received beyond Sea the like Goods for 1300, <hi>&amp;c.</hi> which hath ſtood our <hi>Engliſh</hi> Merchant in 1500 <abbr>
+                  <hi>l.</hi>
+               </abbr> The
+<hi>Engliſh</hi> and <hi>Flemming</hi> Merchants then ſhip off each their Goods for <hi>Spain, Turkey,</hi> the <hi>Eaſt</hi> or <hi>Weſt Indies,</hi> and there they go to Market to ſell theſe Goods, and the
+<hi>Flemming</hi> under ſells the <hi>Engliſh</hi> 13 <hi>per Cent.</hi> even in theſe Commodities which are the Product of <hi>England.</hi>
+            </p>
+            <p>And now what is the plain Inference? but inevitable Ruine to the whole Trade of the Nation. Here's an End of Mer<g ref="char:EOLhyphen"/>chandiſe, and (in Time of Peace) all Uſe of Shipping.</p>
+            <p>This I think is the natural and the preſent Effect of the Riſe of Guineas.</p>
+            <p>But to return to my proper Subject, fare it as it will with Gold, the current Silver Coin of <hi>England</hi> is, by 3 Parts in 5 too little for our In-Land Trade, and
+<pb n="31" facs="tcp:101656:17"/>muſt ruine in Proceſs of time all thoſe Traders who are wont to make ſeve<g ref="char:EOLhyphen"/>ral Returns of their Money in a Year; for the Scarcity of Money occaſions the giving of longer Credit than is uſual, and the giving of Credit hinders the Frequency of Returns.</p>
+            <p>Again, the Want of Silver Coin oc<g ref="char:EOLhyphen"/>caſions the taking of Gold at ſuch high Rates; and the Value of Gold Coin being uncertain, which Silver Coin hath not hitherto been, the Re<g ref="char:EOLhyphen"/>ceiver will always allow himſelf for a probable Loſs: (which would be the cer<g ref="char:EOLhyphen"/>tain Effect too of making the Valu<g ref="char:EOLhyphen"/>ation of Silver Coin alterable and un<g ref="char:EOLhyphen"/>certain) that Allowance makes things bought ſo much the dearer, and that Dearneſs puts a Damp upon Trade.</p>
+            <p>So that the Scarcity of Silver is not only at preſent too viſible, but ſo long as the Balance of Trade is lighteſt on our Side, is like to be more and more felt.</p>
+            <pb n="32" facs="tcp:101656:18"/>
+            <p>Yet the great Naval Stores we buy from abroad, the great Remittances to be provided for the Subſiſtence of our Armies and Fleets, are things inevitable, and 'tis impoſſible to hinder the Expor<g ref="char:EOLhyphen"/>tation of Bullion.</p>
+            <p>But 'tis very eaſie to hinder the Ex<g ref="char:EOLhyphen"/>portation of Money.</p>
+            <p>And as we ſhall do well to conſider, that altho' our Plate may ſerve us once at a dead Lift, as the <hi>French</hi> King ſhow'd us the Way, yet it can't ſerve us above once, and when that's gone after the reſt of our Silver, what are we to do next?</p>
+            <p>We muſt not only ſtop a preſent Gap, but provide for the future, and ſo I lay it down as a Concluſion.</p>
+            <p>
+               <hi>That we are under a very great Want of Silver Coin to carry on the neceſſary Trade of the Kingdom.</hi>
+            </p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="33" facs="tcp:101656:18"/>
+            <head>CHAP. III. <hi>Of the Importation of Silver.</hi>
+            </head>
+            <p>THat which encourages the Im<g ref="char:EOLhyphen"/>portation of any Commodity is the Certainty and Quickneſs of a Mar<g ref="char:EOLhyphen"/>ket at a good Price.</p>
+            <p>But notwithſtanding Silver is dear in <hi>England,</hi> at preſent we are but dull Traders for it.</p>
+            <p>For the <hi>Mint</hi> and the Silver-Smiths being the chief Buyers, theſe cannot go to Market.</p>
+            <p>The Mint cannot afford to buy and ſell to loſe; if an Ounce of Silver coſt the Warden of the Mint 6 <abbr>
+                  <hi>s,</hi>
+               </abbr> 5
+<abbr>
+                  <hi>d.</hi>
+               </abbr> he can't afford to make a Crown-Piece of it.</p>
+            <pb n="34" facs="tcp:101656:19"/>
+            <p>And the fear of Plate's being call'd in, to the Diſadvantage of the Owner, puts too great a Damp upon the Silver-Smiths Trade.</p>
+            <p>And the actual calling it in, upon ſuch Terms, would very little mend the Matter; People will not be very fond of buying more, for fear at leaſt the ſame Trick ſhould be ſerv'd 'em twice.</p>
+            <p>And yet our Coin being altogether inſufficient, we muſt provide for a con<g ref="char:EOLhyphen"/>ſiderable Quantity more.</p>
+            <p>The Quantity we want muſt be im<g ref="char:EOLhyphen"/>ported according to our Occaſions, or what we have already, be augmented, by altering the
+<hi>Species,</hi> or by coining out our Plate.</p>
+            <p>It cannot be ſoon enough impor<g ref="char:EOLhyphen"/>ted in ſuch great Quantities as we at preſent want, and yet if we could
+<pb n="35" facs="tcp:101656:19"/>immediately buy it from abroad, we could not afford to coin what we buy, without altering our Coin from the old Standard, ſeeing our Neceſſity of ha<g ref="char:EOLhyphen"/>ving it, will make its Price riſe abroad.</p>
+            <p>Therefore I ſhall referr what I have more to ſay, concerning Importation, to the Chapter of Exportation, and firſt ſpeak of altering our Coin, for 'tis e<g ref="char:EOLhyphen"/>vident we muſt alter our Coin, as well as coin our Plate, or otherwiſe our Plate will laſt us but a little while, and in the mean time we may admit this Conclu<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>
+               <hi>That</hi> England <hi>muſt be as good a Mar<g ref="char:EOLhyphen"/>ket for Silver as other Countries, or we ſhall have little imported, be it never ſo plentiful abroad.</hi>
+            </p>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="36" facs="tcp:101656:20"/>
+            <head>CHAP IV. <hi>Of Altering our Coin.</hi>
+            </head>
+            <p>THere are Three Ways of alter<g ref="char:EOLhyphen"/>ing our Coin.</p>
+            <p n="1">I. <hi>Firſt,</hi> By not altering the <hi>Species</hi> of the Money, but the Value. of it, as making a Crown Piece go for 6 or 7
+<abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p n="2">II. <hi>Secondly,</hi> By diminiſhing the Mat<g ref="char:EOLhyphen"/>ter, but leaving the ſame Name; and there is no eſſential Difference between theſe two Ways.</p>
+            <p n="3">III. <hi>Thirdly,</hi> by abaſing the Fineneſs with more than ordinary Allay.</p>
+            <pb n="37" facs="tcp:101656:20"/>
+            <p>This has been judicially and fully ſtated by Mr.
+<hi>Lownd</hi>'s,
+<note place="margin">Mr. <hi>Lownds</hi>'s <hi>Report.</hi> p. 28. and onwards.</note> who hath ſhown the undeniable Expediency of keeping up always our Silver Coin, to the preſent Fineneſs, as that illuſtrious and ſolid Writer Sr. <hi>Robert Cotton</hi> had likewiſe ſhew'd, and therefore I will ſay nothing on this Topic, leſt I ſhould ſeem to build upon other Mens Foundations; and I the rather omit it, becauſe all that hath, or can be ſaid, againſt the rai<g ref="char:EOLhyphen"/>ſing of the extrinſic Valuation of Coin, above the real Value, is applicable to the abaſing of it by Allay. And I ful<g ref="char:EOLhyphen"/>ly aſſent to that Axiom, That the de<g ref="char:EOLhyphen"/>baſing our Money, by Allay, and raiſing the Value of the Standard, is only doing one and the ſame thing, (to moſt In<g ref="char:EOLhyphen"/>tents and Purpoſes) by two ſeveral Ways or Means.</p>
+            <p>Suppoſe then but two Ways of de<g ref="char:EOLhyphen"/>baſing it, by Quantity, or by Quality, and ſtill that is all but <hi>debaſing</hi> of it,
+<pb n="38" facs="tcp:101656:21"/>that is, giving it a Value in Name, of more than it hath Intrinſically or Real<g ref="char:EOLhyphen"/>ly; for this more than Intrinſic Value, is meerly Extrinſical, ſuppoſed, or de<g ref="char:EOLhyphen"/>nominated: in ſhort 'tis a fictitious imaginary Value, and not a real one, above the intrinſic.</p>
+            <p>And this, to ſay no more of it, is the reviving of that Monſter which Q. <hi>Elizab.</hi>
+               <note place="margin">
+                  <hi>Cotton</hi>'s <hi>Poſthu<g ref="char:EOLhyphen"/>ma.</hi> p.
+287.</note> is of Happy Memory ſo gloried in the ſubduing; and I doubt we have Mon<g ref="char:EOLhyphen"/>ſters enough to deal with, without re<g ref="char:EOLhyphen"/>viving more</p>
+            <p>This is ſuch a devouring Expedient as will immediately ſwallow down a Part of every Man's Eſtate, and at laſt con<g ref="char:EOLhyphen"/>ſume the Nation.</p>
+            <p>The Price of every thing will riſe inſtead of falling.</p>
+            <pb n="39" facs="tcp:101656:21"/>
+            <p>For if we were willing to ſubmit to this at home, yet there is ſuch a Com<g ref="char:EOLhyphen"/>bination, between our Foreign and Home Trade, and the Relation between 'em is ſo inſeparable, that let the State give it what Name it will, it will paſs for no more at home than it doth a<g ref="char:EOLhyphen"/>broad, unleſs the heavy Balance of Trade was on our ſide the Water; and it will paſs for no more abroad than it is <hi>real<g ref="char:EOLhyphen"/>ly,</hi> not <hi>Extrinſically</hi> or Imaginarily, worth at home.</p>
+            <p>An Act of Parliament can as well make a <hi>Scotch</hi> Pound paſs for an <hi>En<g ref="char:EOLhyphen"/>gliſh,</hi> as half an Ounce of Silver in
+<hi>England</hi> to go for an Ounce in <hi>Holland,</hi> without <hi>ſome Conſideration as may Ba<g ref="char:EOLhyphen"/>lance the Difference.</hi>
+            </p>
+            <p>Let us call a ſix penny-Weight of Sil<g ref="char:EOLhyphen"/>ver a Crown Piece, as loud and as long as we will, yet we ſhall never buy a Pound of Nutmegs with Four of 'em, unleſs you'll give the <hi>Dutch</hi> Mer<g ref="char:EOLhyphen"/>chant
+<pb n="40" facs="tcp:101656:22"/>a Yard of broad-Cloth, or ſome<g ref="char:EOLhyphen"/>thing elſe into the Bargain.</p>
+            <p>'Tis a plain caſe, that when the <hi>real</hi> Value of Money is leſſen'd, the Price of every thing will Riſe accordingly, be the
+<hi>Extrinſic</hi> Value what it will.</p>
+            <p>Two Crown-Pieces do not buy a Yard of Cloth, becauſe they contain Ten Shillings, but becauſe they contain almoſt two Ounces of Silver.</p>
+            <p>Gold and Silver are the univerſal Pledges and Security of all Trade, in every Nation, and what's wanting in their Value muſt ſome way or other be made Good, more than in Name or Suppoſition.</p>
+            <p>'Tis True, in <hi>Holland</hi> and elſewhere, they have a baſe Under-Money, and there is not an Ounce of Silver, perhaps, in as many Stivers or Schillings, as are Equivalent to Ten Shillings in our Mo<g ref="char:EOLhyphen"/>ney.</p>
+            <pb n="41" facs="tcp:101656:22"/>
+            <p>But if in <hi>Holland,</hi> you can exchange ſo many of them, as have not an Ounce of pure Silver in 'em, for as much of their better Coin, as contains two or three Ounces of good Silver, then doubt<g ref="char:EOLhyphen"/>leſs you can buy as good Commodities for thoſe, as you can proportionably for their better Money; as here you might formerly have bought as much Pack-Thread for 48 Tin Farthings as for a Silver Shilling; the Reaſon is, be<g ref="char:EOLhyphen"/>cauſe there was a recourſe; and baſe Money will have a proportionable Va<g ref="char:EOLhyphen"/>lue to Good, in that place where it can be changed into Good; but that's a very different thing, from debaſing the whole <hi>Species</hi> of Money throughout the Nation, ſo that a Man ſhall be forc'd always to take Under-Money, without any proſpect of remedy.</p>
+            <p>I have nothing to ſay againſt an in<g ref="char:EOLhyphen"/>ferior ſort of Money; a
+<hi>Verna Nummus,</hi>
+               <pb n="42" facs="tcp:101656:23"/>provided there be a <hi>Regina Pecunia</hi> too; and it is indeed a diſhonouring him, whoſe Image and Superſcription our Money bears, if we ſhall make uſe of our Money to cover over a Fraud; it is a reſpect we owe to the King, not to ſuffer his Impreſs upon any thing but what is really Valuable; and it is for the Nation's Honour that the vileſt of our Coin hath a real Value; but if the Wiſdom of the
+<hi>Parliament</hi> ſhou'd think otherwiſe, yet there is a vaſt Difference between having the under. Money, and all the Money of the Na<g ref="char:EOLhyphen"/>tion of an Imaginary Value.</p>
+            <p>The Arguments that may be made uſe of againſt ſuch an imaginary Valu<g ref="char:EOLhyphen"/>ation of Money, are perhaps invincible, and almoſt innumerable; but were there no other but this, I think it might be ſufficient without any more; conſi<g ref="char:EOLhyphen"/>dering our preſent Caſe.</p>
+            <pb n="43" facs="tcp:101656:23"/>
+            <p>We muſt have an Army in <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> or a War in
+<hi>England</hi>
+            </p>
+            <p>I would I had nothing to do but to make out that.</p>
+            <p>How muſt we pay this Army? The Royal Bank of <hi>England,</hi>
+'tis ſaid, have e<g ref="char:EOLhyphen"/>ſtabliſhed there a <hi>Mint</hi> for Coining of Money to pay the Army; I deſire then to know if they will be contented to re<g ref="char:EOLhyphen"/>ceive here an undervalued Money, and pay there our Army in Money which the
+<hi>Flemmings</hi> will take; If they do, the Cap lies between the
+<hi>Flemmings</hi> and them, I wo'nt award till I know more.</p>
+            <p>I rather think that the <hi>Hollanders</hi> and <hi>Flemmings</hi> will raiſe their Money pro<g ref="char:EOLhyphen"/>portionably to what we raiſe ours, and then in all Reſpects we are juſt as we were, till we riſe higher than they, and then they higher than we; which will beget perpetual Wranglings and Wars in Trade.</p>
+            <pb n="44" facs="tcp:101656:24"/>
+            <p>I thought now to have done with this Article, but can't omit one thing.</p>
+            <p>Which is that when you raiſe the Value of Money, you Naturally raiſe the Value of Silver, which is high e<g ref="char:EOLhyphen"/>nough already; and then indeed
+<hi>Eng<g ref="char:EOLhyphen"/>land</hi> will become the Beſt Market for Silver, becauſe all Countries will ſell it to us and get ſufficiently by the Bargain: they'll buy good peny-worths of our Commodities, giving us high Valued Silver for it, till we have a glut of Silver and the Price of Silver falls, and then I ſuppoſe the Intrinſic Value of the Money falls too: Tho' I confeſs as bad Conſequences may follow too great an Intrinſic Value.</p>
+            <p>I ſpeak nothing of the Confuſions and Jealouſie which will ariſe from hence, but there's a long Chain of ill Conſequences, and therefore I hope it will be allow'd as a Maxime.</p>
+            <pb n="45" facs="tcp:101656:24"/>
+            <p>
+               <hi>That if our Silver Coin hath leſs than a</hi> real Value,
+<hi>it will not anſwer the Inten<g ref="char:EOLhyphen"/>tions of the Government.</hi>
+            </p>
+         </div>
+         <div n="5" type="chapter">
+            <head>CHAP. V. <hi>Of Exportation of Coin'd Silver.</hi>
+            </head>
+            <p>'TIS too well known, that when the Balance of Trade comes to be examined, we fall ſhort of ſeveral of our Neighbours very conſiderably: By this Means the Exchange doth not only fall very low, but will become altogether in<g ref="char:EOLhyphen"/>ſufficient for our preſent Occaſions; ſo that as long as the War continues,
+<pb n="46" facs="tcp:101656:25"/>there is an abſolute Neceſſity that we export ſo much Silver and Gold <hi>in Specie</hi> as the Balance wants on our Side.</p>
+            <p>But this Exportation would not be at all prejudicial to us, if the Importa<g ref="char:EOLhyphen"/>tion could be made equal to the Exportation, and a Balance in this Particular only would do our Buſi<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>In vain therefore we labour to find out a Way to force a National Trade above what the State of <hi>Europe</hi> in general, or our own Nation in par<g ref="char:EOLhyphen"/>ticular will allow; if that were not the Caſe, where would be the In<g ref="char:EOLhyphen"/>convenience of a War? This is an Evil never to be cured, but in Times of Peace. But our Comfort is, that even in theſe Times of War
+<pb n="47" facs="tcp:101656:25"/>the Nation notwithſtanding the balance of Trade, appears as wealthy as ever, excepting only in the Article of Coyn, ſo that it is not only fruitleſs but very needleſs to ſpeak now of the ba<g ref="char:EOLhyphen"/>lance of Trade either in general, or upon any Article but that of Money: Beſides if we ſhould be<g ref="char:EOLhyphen"/>gin at that end it would be a round about way, and ſo long in com<g ref="char:EOLhyphen"/>paſſing, that we may be at the laſt gaſp before we attain our end. He would be accounted no good Phyſician who in the caſe of an <hi>Haemorrhage</hi> when the danger is very preſent ſhould talk of Diet Drinks and Alteratives, whereas an actual and immediate application to the part affected, or a ſudden revulſion is more to the purpoſe. But be the balance of Trade in general how it will, 'tis impoſsible it ſhould be ſuddenly remedied, f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t all du<g ref="char:EOLhyphen"/>ring the War.</p>
+            <pb n="48" facs="tcp:101656:26"/>
+            <p>But if we can balance a little between that Article of Trade which relates to the Importation of Bullion, it will be ſoon much better with us than it is at preſent, 'tis ſomething if we can give pre<g ref="char:EOLhyphen"/>ſent eaſe, and not increaſe the Danger; and more if we can leſ<g ref="char:EOLhyphen"/>ſen the Danger which the want of eaſe ſeems to threaten.</p>
+            <p>Suppoſe for inſtance then the whole Trade of <hi>England</hi> to all parts of the World to be carried on by two Merchants, one at
+<hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the other at <hi>Amſterdam,</hi> and the only Commodities to be Cloth and Silk. Suppoſe he at <hi>London</hi> Exports every year 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> worth of Broad Cloth and no more, and he at
+<hi>Amſterdam</hi> Imports hither 1500 <abbr>
+                  <hi>l.</hi>
+               </abbr> worth of Silk, that here's an inevitable neceſsity of the <hi>Londiners</hi> Exporting every Year 500 <abbr>
+                  <hi>l,</hi>
+               </abbr> in Bullion can't be de<g ref="char:EOLhyphen"/>nyed,
+<pb n="49" facs="tcp:101656:26"/>and if this continue year by year it, will be, you'll ſay, of pernici<g ref="char:EOLhyphen"/>ous conſequence to <hi>England,</hi> and it will be a wonderful hard matter at this time to help ſuch a Caſe.</p>
+            <p>But if we can at preſent ſo or<g ref="char:EOLhyphen"/>der it, that inſtead of importing 1500 <abbr>
+                  <hi>l.</hi>
+               </abbr> worth of Silk we ſhall im<g ref="char:EOLhyphen"/>port 1000
+<abbr>
+                  <hi>l.</hi>
+               </abbr> worth of Silk, and 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> worth of Silver we ſhall be no loſers in the Article I am up<g ref="char:EOLhyphen"/>on, and which is the only thing I have undertaken to look after, <hi>viz.</hi> That the Nation ſhall never want Money be the Trade what it will: for if 500
+<abbr>
+                  <hi>l.</hi>
+               </abbr> in Silver be Exported and as much Imported every Year, we can never have a Peny worth of Bullion leſs than we have.</p>
+            <p>And if other Nations muſt get by us, they had better get any thing than our Money; if what they get by us they muſt be forced
+<pb n="50" facs="tcp:101656:27"/>to ſpend among us, 'twill leſſen I hope the Calamity, as will ap<g ref="char:EOLhyphen"/>pear more hereafter.</p>
+            <p>Now this is not to be done by giving our Coyn a <hi>Nominal, fictitious</hi> or <hi>extrinſick</hi> value only above its intrinſick: Foreigners are not ſuch Fools to be dealt with at that rate, as to pay you a Rex Dollar of 18 <abbr>
+                  <hi>d.</hi>
+               </abbr> weight 18 grains in
+<hi>Amſter<g ref="char:EOLhyphen"/>dam</hi> or <hi>Bruſſels,</hi> for a piece of Money of 15 penny weight in <hi>London.</hi>
+            </p>
+            <p>Turn the Tables, <hi>and ſuppoſe the King of</hi> Spain
+<hi>ſhould advance his Real of Eight</hi> weighing but 17 Penny Weight 12 Grains <hi>to double the value it now bears,
+<note place="margin">Sir <hi>Robert Cotton</hi>'s anſwer of the Committee. <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 1626. Pag. 306.</note> and yet needing by reaſon of the barrenneſs of his Country more of
+<pb n="51" facs="tcp:101656:27"/>Foreign Wares than he can Coun<g ref="char:EOLhyphen"/>tervail by Barter with his own; he muſt part with his Money and not gain by enhauncing his Coyn.</hi> One Real of Eight would not then buy of us as good a Yard of broad Cloth as two doth now, and why ſhould we think to over reach them more than they us.</p>
+            <p>But then again, ſuppoſe the Money to be Coyned ſhall be (as our Mill'd Money and di<g ref="char:EOLhyphen"/>miniſhed hammer'd Money is) pretty near the Intrinſick value of the Silver in each piece, and this will doubtleſs facilitate Exporta<g ref="char:EOLhyphen"/>tion. If a Foreigner for inſtance bring to <hi>London</hi> and ſells 40 Bales of raw Silk, or 40 Tun of Wine, and meets not here with ſuch a Market for the buying of other Commodities to be Tranſ<g ref="char:EOLhyphen"/>ported as he expected, perhaps
+<pb n="52" facs="tcp:101656:28"/>thoſe he wants are not of our Growth or Manufacture, or it may be he is in haſt, or the Sea<g ref="char:EOLhyphen"/>ſon calls him home; how eaſie is it for him to ſheer away, and go to another Market, having Money in his Pocket paſſable every where, at the rate he took it, that inconſi<g ref="char:EOLhyphen"/>derable allowance for Coynage on<g ref="char:EOLhyphen"/>ly excepted!</p>
+            <p>This I think is plain, but as yet there is more in it than ſo; and ſuppoſe it, any other Nations turn to want Silver as much as we now do, and Silver ſhould be there at an higher price than with us, then our Money becomes good Mer<g ref="char:EOLhyphen"/>chandice, and he gets moſt who carries moſt over: And the lower the value of our Coyn is the leſs Foreign Commodities we ſhall have for it.</p>
+            <p>You'll Prohibit you'll ſay the ex<g ref="char:EOLhyphen"/>porting
+<pb n="53" facs="tcp:101656:28"/>of it, and ſo you have up<g ref="char:EOLhyphen"/>on pain of Death prohibited the Exportation of our Wooll, yet to the comfort of our Graſiers
+'tis ſtill Exported, though it's very bulky Ware. But Money lies in a ſmall Compaſs, a Sea Captain knows very little of his chief bu<g ref="char:EOLhyphen"/>ſineſs if he knows not where to ſtow a 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> undiſcovered.</p>
+            <p>And if after all we ſhould be very ſevere in the execution of ſuch prohibitory Laws, it would put ſuch a damp to Foreign Trade as every body is not a ware of.</p>
+            <p>And indeed if Money were not allowed to be a commodity, yet 'tis a Pledge and Surety of every Traders Property, and I am not reconciled to the Juſtice of that Law which forbids a man to take his Pledge along with him.</p>
+            <pb n="54" facs="tcp:101656:29"/>
+            <p>Such a Law makes money no<g ref="char:EOLhyphen"/>thing but a Commodity, and then we muſt pay dear for what we buy of Foreigners, for moſt men will ſell Cheaper than they will Barter.</p>
+            <p>This Article needs I think no more illuſtration, if it doth the Merchants can tell more of it than I, and I hope they will grant me this Concluſion.</p>
+            <p>
+               <hi>That if our</hi> Engliſh <hi>Money will paſs in any other Country for as much as it doth here, 'tis impracticable to hinder the Exportation of it.</hi>
+            </p>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="55" facs="tcp:101656:29"/>
+            <head>CHAP. VI. <hi>Of melting down the current Coyn of</hi> England
+<hi>by our Goldſmiths and other Artificers.</hi>
+            </head>
+            <p>ANother great grievance of the Nation in the matters of Coyn may be thought the melting of it down.</p>
+            <p>This hath been a vile and great practice for many Years.</p>
+            <p>The Criminals have been under two temptations:</p>
+            <p n="1">1. The inequality of the Mint in all the hammered money; ſome milled Pieces were of more Intrin<g ref="char:EOLhyphen"/>ſick
+<pb n="56" facs="tcp:101656:30"/>than Extrinſick Value, and ſome of leſs, ſo that in culling out of the bigeſt, they made an evident advantage.</p>
+            <p>But that ſort of money being al<g ref="char:EOLhyphen"/>moſt all gone and never like to be coyned again, I ſhall altoge<g ref="char:EOLhyphen"/>ther wave the conſideration of it.</p>
+            <p n="2">2. The other Temptation is the great Intrinſick Value of our mill'd money, moſt of which was coyn'd when Silver was 5
+<abbr>
+                  <hi>s.</hi>
+               </abbr> 2 <abbr>
+                  <hi>d.</hi>
+               </abbr> 5 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+4 <abbr>
+                  <hi>d.</hi>
+               </abbr> or 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <hi>
+                  <abbr>d.</abbr> per</hi> ounce, and the price of Silver riſing, a Crown piece has now the intrinſick value of 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> or thereabouts, this is a mighty temptation to melt it down.</p>
+            <p>
+               <hi>Titius</hi> owes <hi>Sempronius</hi> 10
+<abbr>
+                  <hi>l.</hi>
+               </abbr> and pays him in mill'd money, <hi>Semproni<g ref="char:EOLhyphen"/>us</hi> owes a third man as much, but firſt melts it down and ſells it to a Goldſmith for 12 <abbr>
+                  <hi>l.</hi>
+               </abbr> and ſo puts
+<pb n="57" facs="tcp:101656:30"/>40 <abbr>
+                  <hi>s.</hi>
+               </abbr> in his Pocket. This might have been prevented you'll ſay be<g ref="char:EOLhyphen"/>fore all the mill'd money was gone; by crying down all other money, for if the Goldſmiths had given 12
+<abbr>
+                  <hi>l.</hi>
+               </abbr> in mill'd money for an In<g ref="char:EOLhyphen"/>got melted out of ten Pounds, they muſt at length have been ruined; and therefore the Crying down all other money muſt have brought down the price of Silver neceſſari<g ref="char:EOLhyphen"/>ly, or none could have been ſold:</p>
+            <p>If 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> melted down would not have yielded a Crown Piece, who would have melted 'em; and if they would have yielded more, the money of the Nation how much ſoever muſt ſoon have vaniſhed, for more could not have been coyn'd, till the price of Silver ſhould fall: But how could the price of Silver have fallen ſo low in <hi>England,</hi> as not to be worth any mans while to melt down the milled money, if Silver
+<pb n="58" facs="tcp:101656:31"/>ſhould at the ſame time of its melt<g ref="char:EOLhyphen"/>ing bear an higher price in other Countries than it did here at the time of its Coyning: So that the Crying down of baſe money would at any time have been ſo far from help<g ref="char:EOLhyphen"/>ing us, that it would have imme<g ref="char:EOLhyphen"/>diately ruined us, it being impoſ<g ref="char:EOLhyphen"/>ſible to Coyn more upon the old Standard, if the price of Silver is higher beyond Sea than it was when that old Standard was Coyn<g ref="char:EOLhyphen"/>ed: And 'twill be impoſſible for us to Coyn new money after the old Standard (till we can bring down the Foreign Price of Silver) ſo faſt as it will be melted down.</p>
+            <p>To make this plain upon which ſo much depends, put the Caſe thus.</p>
+            <p>Suppoſe you called in by com<g ref="char:EOLhyphen"/>pulſion and Coyned all the Plate of <hi>England,</hi> and ſuppoſe it never ſo many Millions, and all after
+<pb n="95" facs="tcp:101656:31"/>the old Standard, when the Plate is all gone people will have more Plate, and Silverſmiths muſt ſtill have work, and Goldſmiths their Trade, unleſs by prohibiting the uſe of ſilver Plate we proclaim an hypocrital Beggary to all the world, and ruin many thouſand Families of Artiſans. The Silver then of which you coyn your new Plate muſt come from abroad, or be pro<g ref="char:EOLhyphen"/>cured out of your money;</p>
+            <p>The Goldſmith will go the cheaper way to work, and rather than he'll give 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> 10 <abbr>
+                  <hi>d.</hi>
+               </abbr> to a Mer<g ref="char:EOLhyphen"/>chant for an ounce of Plate, he'll fling in a Crown and 6
+<abbr>
+                  <hi>d.</hi>
+               </abbr> into the melting Pot, and though the Laws againſt melting down Coyn be ne<g ref="char:EOLhyphen"/>ver ſo ſevere yet people will ven<g ref="char:EOLhyphen"/>ture any thing for gain, as you may ſee Clippers do daily; eſpe<g ref="char:EOLhyphen"/>cially if their Conſciences don't check 'em, and few mens Conſci<g ref="char:EOLhyphen"/>ences
+<pb n="60" facs="tcp:101656:32"/>will ſcruple making the moſt of their own.</p>
+            <p>And as the accurate Mr. <hi>Lowndes</hi> obſerves, notwithſtanding ever ſince <hi>Ed.</hi> 3d's. time prohibitory Laws have been againſt melting down Coyn, <hi>pag.</hi> 68. and the profit of melting it ſometimes very incon<g ref="char:EOLhyphen"/>ſiderable, <hi>pag.</hi> 69. the practice hi<g ref="char:EOLhyphen"/>therto was never prevented. But it may be ſaid money ſhall be coyn<g ref="char:EOLhyphen"/>ed of an intrinſick value or near thereabouts (Coynage only al<g ref="char:EOLhyphen"/>lowed) in proportion to the pre<g ref="char:EOLhyphen"/>ſent value of Silver, be it more or leſs as it ſhall alter from time to time, and ſo the abatement for Coynage ſhall always keep the Eſtimate of the Coyn above the Intrinſick value of the Silver, but in<g ref="char:EOLhyphen"/>ſtead of bringing remedy this will make the Caſe tentimes worſe, for then upon every riſe of Silver the Goldſmiths and others will melt
+<pb n="61" facs="tcp:101656:32"/>down all that was Coyn'd at a low<g ref="char:EOLhyphen"/>er Price, and if the form of the Coyn don't direct 'em to be dex<g ref="char:EOLhyphen"/>trous, the Prentices ſhall follow the old Trade of weighing money Night and Day too.</p>
+            <p>So that without going farther upon this Topick, I may lay it down as a Concluſion or Maxim.</p>
+            <p>
+               <hi>That if the Intrinſick Value of Coyn be ſubject to alteration the Coyn is always in danger of being melted down.</hi>
+            </p>
+         </div>
+         <div n="7" type="chapter">
+            <pb n="62" facs="tcp:101656:33"/>
+            <head>CHAP. VII. <hi>Of Hoarding up of the Silver Coyn.</hi>
+            </head>
+            <p>PEople who have ſeveral un<g ref="char:EOLhyphen"/>eaſineſſes upon 'em at one and the ſame time, are very apt to at<g ref="char:EOLhyphen"/>tribute 'em all to one, which is the moſt hated, the moſt invidi<g ref="char:EOLhyphen"/>ous, or at leaſt the moſt viſible cauſe, though in reality every one may have ſprung from a ſeveral and very different root.</p>
+            <p>Thus our preſent War with <hi>France</hi> is to ſome few people odi<g ref="char:EOLhyphen"/>ous, to many invidious, and to all viſible, and this therefore muſt be the cauſe of all National Cala<g ref="char:EOLhyphen"/>mities.</p>
+            <pb n="63" facs="tcp:101656:33"/>
+            <p>Whereas many things are better with us now than if we had no War; a frequency of Parliaments, an univerſal vigilance, a care of Shiping; a choice of able Mini<g ref="char:EOLhyphen"/>ſters, (and not unskilful Favorites in moſt places of greateſt Truſt;) an intire Allyance with the moſt uſeful Neighbours; an honeſt imployment for all diſſolute Men; an hononrable proviſion for younger Sons of Gentlemen; a perfectunderſtanding between the King and his People; an almoſt total deſiſtance from an unreaſonable and diſadvantageous Commerce with <hi>France;</hi> a more brotherly Correſpondence with the Diſſenters (being all equally en<g ref="char:EOLhyphen"/>gaged in the Publick danger) We have great Honour by the Bravery of our Arms, and the moſt im<g ref="char:EOLhyphen"/>portant aſsiſtance we give to all
+<pb n="64" facs="tcp:101656:34"/>
+               <hi>Chriſtendom</hi> againſt
+<hi>French</hi> and <hi>Turk</hi> Our King is become the
+<hi>Generaliſſimo</hi> of <hi>Europe,</hi> and his Fleet give Laws in all Seas.</p>
+            <p>Theſe and many more to the better part of the Nation are the advantages of this neceſſary the expenſive War.</p>
+            <p>But there are ſome that look upon it with an evil eye, and then the badneſs of money, and the ſcarcity of it, and the Export<g ref="char:EOLhyphen"/>ing and melting down, and hoard<g ref="char:EOLhyphen"/>ing it, and the riſe of Gold, and the dearneſs of Commodities, and the badneſs of Trade are all as evident effects of the War as the Taxes are.</p>
+            <pb n="65" facs="tcp:101656:34"/>
+            <p>Though in truth this is all Humour and Caprice, and none of it more rdiculous than when the hoard<g ref="char:EOLhyphen"/>ing up of Money is imputed to the War, which is the meer ef<g ref="char:EOLhyphen"/>fect of the dearneſs of Silver, as the dearneſs of Silver in
+<hi>England</hi> is the natural effect of its dear<g ref="char:EOLhyphen"/>neſs abroad, and its dearneſs a<g ref="char:EOLhyphen"/>broad to the obſtructions of Trade, which would be if only
+<hi>France</hi> and <hi>Spain</hi> were at War, ſince <hi>Spain</hi> is the Silver Market of the whole World.</p>
+            <p>Ever ſince the extraordinary a<g ref="char:EOLhyphen"/>baſement of Coyn by an unparal<g ref="char:EOLhyphen"/>leled Counterfeit and Clipping, people have hoarded up Money a pace, not knowing how far the debaſement would run; and fear<g ref="char:EOLhyphen"/>ing
+<pb n="66" facs="tcp:101656:35"/>if they put their good Money out they ſhould at the long run be forced to be paid back in they know not what themſelves.</p>
+            <p>Nor hath the beauty and rarity of uncorrupted and undiminiſhed Coyn, added a little to the hu<g ref="char:EOLhyphen"/>mour of hoarding it up.</p>
+            <p>Undefaced and weighty pieces are now as ſo many Medals, people think it a great happineſs to have a ſtore of 'em. And as the Coyn degenerates theſe are more charily preſerved, and will be ſo till the intrinſick value of 'em diminiſhes. I could give a ſhrewd gueſs where this weighty Money is to be found in great quan<g ref="char:EOLhyphen"/>tities, but be it where it will as I ſaid before, I think every man hath a right do what he will with his own, ſo far as it is his own.</p>
+            <pb n="67" facs="tcp:101656:35"/>
+            <p>All that I at preſent aim at is to ſhow.</p>
+            <p>
+               <hi>That Coyn which hath an In<g ref="char:EOLhyphen"/>trinſick value above the Extrinſick, and is with-all rare or uncommon will inevitably be boarded up, and continue ſo to be.</hi>
+            </p>
+         </div>
+         <div n="8" type="chapter">
+            <pb n="68" facs="tcp:101656:36"/>
+            <head>CHAP. VIII. <hi>Of Regulating our Silver Coyn.</hi>
+            </head>
+            <p>TO give an exact Eſtimate of what Silver Coyn is ne<g ref="char:EOLhyphen"/>ceſſary for the carrying on our Trade in its full Vigor, is a task I am not at preſent willing to undertake, but the leaſt I can gueſs at is 5000000
+<hi>
+                  <abbr>l.</abbr>
+               </hi> conſider<g ref="char:EOLhyphen"/>ing that great Sums will always remain in the Exchequer, and Banks; for I look upon the Banks not as Chanels only, but as great Receptacles likewiſe, wherein mo<g ref="char:EOLhyphen"/>ney muſt reſt and wait for op<g ref="char:EOLhyphen"/>portunities of diſpoſing it.</p>
+            <pb n="69" facs="tcp:101656:36"/>
+            <p>None of Hypotheſies depend upon definite or determinate Sums, and I ſhall beg nothing eſſentially neceſſary to the carry<g ref="char:EOLhyphen"/>ing on of my deſign, but I deſire for the preſent working on<g ref="char:EOLhyphen"/>ly of my
+<hi>Propoſition,</hi> that a few <hi>Poſtulata</hi> be a while granted me.</p>
+            <p>It matters not much whether any of 'em be true for they may eaſily be varied <hi>Mutatis Mu<g ref="char:EOLhyphen"/>tandis.</hi>
+            </p>
+         </div>
+         <div type="propositions">
+            <pb n="70" facs="tcp:101656:37"/>
+            <head>POSTULATA.</head>
+            <p n="1">1. <hi>THat the Current Silver Coyn of</hi> ENGLAND
+<hi>ought to be at leaſt</hi> 5.000.000 <abbr>l.</abbr> Sterl.</p>
+            <p n="2">2. <hi>That there is not in</hi> England <hi>at preſent above</hi> 4.000.000 <hi>
+                  <abbr>l.</abbr>
+               </hi> Sterl.</p>
+            <p n="3">3. <hi>That there paſſes not publick<g ref="char:EOLhyphen"/>ly above</hi>
+3.000.000 <hi>
+                  <abbr>l.</abbr>
+               </hi> Sterl.</p>
+            <p n="4">4. <hi>That the hoarded Silver Coyn is about</hi> 1.000.000
+<hi>
+                  <abbr>l.</abbr>
+               </hi> Sterl.</p>
+            <p n="5">5. <hi>That the preſent Current Coun<g ref="char:EOLhyphen"/>terfeited Coyn is about</hi> 1.000.000 <hi>
+                  <abbr>l.</abbr>
+               </hi> Sterl.</p>
+            <pb n="71" facs="tcp:101656:37"/>
+            <p n="6">6. <hi>That the preſent Current Sil<g ref="char:EOLhyphen"/>ver Coyn not counterfeited, but clipt<g ref="char:EOLunhyphen"/>ed or otherwiſe diminſhed is about</hi> 2000.000
+<hi>
+                  <abbr>l.</abbr>
+               </hi> Sterl.</p>
+            <p n="7">7. <hi>That the Current Silver Coyn in daily uſe, not counterfeited but cliped or otherwiſe diminiſhed is not intrinſically above</hi> 1.000.000 <hi>
+                  <abbr>l.</abbr>
+               </hi> Sterl.</p>
+         </div>
+         <div type="axioms">
+            <pb n="72" facs="tcp:101656:38"/>
+            <head>Now the <hi>Axioms</hi> I ſhall build upon are chiefly theſe.</head>
+            <div n="1" type="axiom">
+               <head>AX. I.</head>
+               <p>
+                  <hi>THat a way to induce the Subject to a volun<g ref="char:EOLhyphen"/>tary compliance with the neceſſities of State, is prefer<g ref="char:EOLhyphen"/>able to any manner of Com<g ref="char:EOLhyphen"/>pulſion.</hi>
+               </p>
+               <p>And by this I intend to obviate two Projects, <hi>viz.</hi>
+               </p>
+               <p n="1">1. <hi>That the Clipt Money be all called in without giving full ſatis<g ref="char:EOLhyphen"/>faction to the Proprietors;</hi> and this I take to be a piece of Injuſtice, becauſe this Money was at firſt
+<pb n="73" facs="tcp:101656:38"/>given out to us by the Go<g ref="char:EOLhyphen"/>vernment, as a ſufficient pledge and unalterable Security of our Pro<g ref="char:EOLhyphen"/>perties, and it was at firſt iſſu<g ref="char:EOLhyphen"/>ed out of the Mint in ſuch various and undeſigned Shapes, in reſpect of the Peripherie or Cir<g ref="char:EOLhyphen"/>cumference in which it hath been debaſed, and ſo various withall in the thickneſs and weight of each re<g ref="char:EOLhyphen"/>ſpective piece, that 'twas almoſt impoſſible for the Subject to diſtin<g ref="char:EOLhyphen"/>guiſh the diminutions, which a firſt were ſo Curious, ſo Subtil, and ſmall as was not to be eaſily ſuſ<g ref="char:EOLhyphen"/>pected; and it hath been by gradual and ſenſible approaches that the pre<g ref="char:EOLhyphen"/>ſent abaſements are ſo conſider<g ref="char:EOLhyphen"/>able.</p>
+               <p>But this cannot be ſo well ur<g ref="char:EOLhyphen"/>ged in behalf of Counterfeit Mo<g ref="char:EOLhyphen"/>ney, it is not any thing we have received of the State, it never was given to us, as a Plegde and Se<g ref="char:EOLhyphen"/>curity;
+<pb n="74" facs="tcp:101656:39"/>and ſo never was Mo<g ref="char:EOLhyphen"/>ney properly ſo called, but a Falſe, and Counterfeit ſort of Ware which every man Bartered for at his own Peril, and to ſuch <hi>Caveat Emptor</hi> might properly have been ſaid.</p>
+               <p>But if the wiſdom of <hi>Parliament</hi> things fit to make Compenſation for all the Counterfeit Money, I have nothing to ſay againſt it: They are the proper Judges.</p>
+               <p>Or if they ſhall not think fit to give a full Compenſation for the Clipt Money, I have nothing to ſay, it would be great preſump<g ref="char:EOLhyphen"/>tion in a private man to dictate.</p>
+               <p>In the method I ſhall tender, I ſhall make proviſion for a full Compenſation for all the clipt and diminiſhed money of the Roy<g ref="char:EOLhyphen"/>al Standard; at the ſmall expence
+<pb n="75" facs="tcp:101656:39"/>of 250.000 <hi>
+                     <abbr>l.</abbr>
+                  </hi> which is vaſtly leſs than I have heard yet propoſed, I reckon three quarters of the mo<g ref="char:EOLhyphen"/>ney may be paid back in good Mil<g ref="char:EOLhyphen"/>led Coyn forthwith, as faſt as it can be coyned.</p>
+               <p>The ſecond Project I deſigned by the former Axiom to obviate is,</p>
+               <p>
+                  <hi>The compelling of people to ſupply a preſent exigence by bringing in their Plate into the Mint:</hi>
+               </p>
+               <p>Which would be an attempt I doubt of pernicious Conſquence, and inſtead of that I have made a proviſion; whereby queſtionleſs as much Plate will be crouded into the Mint with all the ſpeed imaginable, as ſhall make up in tale the two millions of Pounds Sterling of clipt money which when melted down produced but one; and then I pre<g ref="char:EOLhyphen"/>ſume
+<pb n="76" facs="tcp:101656:40"/>the extraordinarineſs of the encouragement may, and ought to Ceaſe.</p>
+            </div>
+            <div n="2" type="axiom">
+               <head>AX. II.</head>
+               <p>
+                  <hi>THat our coyn cannot be ſecured againſt Expor<g ref="char:EOLhyphen"/>tation, Melting down, and Hoarding up, unleſs it have either a</hi> real, <hi>or</hi> extrinſick <hi>value above the</hi> intrinſick.</p>
+            </div>
+            <div n="3" type="axiom">
+               <head>AX. III.</head>
+               <p>
+                  <hi>THat a</hi> real <hi>value to make up the want of</hi> intrinſick <hi>given to Money, will be
+<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>re ſatisfactory to all His Ma<g ref="char:EOLhyphen"/>jeſties good Subjects <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a
+<pb n="77" facs="tcp:101656:40"/>mere</hi> extrinſick <hi>value above the</hi> intrinſick.</p>
+            </div>
+            <div n="4" type="axiom">
+               <head>AX. IV.</head>
+               <p>
+                  <hi>THat the</hi> real <hi>value of Mo<g ref="char:EOLhyphen"/>ney ought to be more than the</hi> intrinſick, <hi>and equal to the</hi> extrinſick.</p>
+            </div>
+            <div n="5" type="axiom">
+               <head>AX. V.</head>
+               <p>
+                  <hi>THat Money cannot have a</hi> real <hi>value over and a<g ref="char:EOLhyphen"/>bove the</hi> intrinſick, <hi>unleſs that over and above value be ſet<g ref="char:EOLhyphen"/>led by an unqueſtionable Secu<g ref="char:EOLhyphen"/>rity applicable to every par<g ref="char:EOLhyphen"/>ticular perſons Uſe.</hi>
+               </p>
+            </div>
+            <div type="proposition">
+               <pb n="78" facs="tcp:101656:41"/>
+               <head>PROPOSITION.</head>
+               <p>
+                  <hi>Now I humbly propoſe to the Conſideration of better judg<g ref="char:EOLhyphen"/>ments the doing of theſe things.</hi>
+               </p>
+               <p n="1">1. The ſpeedy calling in all the clipt and diminiſhed Money of the old Standard, and intirely ſatisfying every Proprietor, by paying them 75 <hi>
+                     <abbr>l.</abbr> per cent.</hi> back in Specie, and aſcertaining to 'em the remainder by Parliament Se<g ref="char:EOLhyphen"/>curity.</p>
+               <p n="2">2. The leaving as ſmall an in<g ref="char:EOLhyphen"/>terſtice of time as is poſſible be<g ref="char:EOLhyphen"/>tween the calling in the old Mo<g ref="char:EOLhyphen"/>ney and iſſuing out of New.</p>
+               <pb n="79" facs="tcp:101656:41"/>
+               <p n="3">3. That therefore vaſt Encourage<g ref="char:EOLhyphen"/>ment be given for the ſpeedy bring<g ref="char:EOLhyphen"/>ing in three or four Millions of ounces of Plate to the Mint, to anſwer the preſent Neceſſities of the King and People.</p>
+               <p n="4">4. That the Exportation of Silver Money beyond the Permiſſion of the <hi>King</hi> and <hi>Parliament,</hi> be effectually hinder'd.</p>
+               <p n="5">5. That a Proviſion be made as ſhall leave no Temptation for the melting that down which ſhall be Coin'd.</p>
+               <p n="6">6. Nor for hoarding it up.</p>
+               <p n="7">7. That the Importation of Silver from all parts be encouraged, and the Current Silver Coin of <hi>England</hi> encrea<g ref="char:EOLhyphen"/>ſed to Five millions of Pounds Ster<g ref="char:EOLhyphen"/>ling.</p>
+               <pb n="80" facs="tcp:101656:42"/>
+               <p n="8">8. That the Standard, in reſpect of Allay, be kept to its old Purity.</p>
+               <p n="9">9. That the Denomination of the new Money be equal to the old.</p>
+               <p n="10">10. That every one of the afore<g ref="char:EOLhyphen"/>ſaid Articles be accompliſh'd at no more expence to the Publick than Two hundred and fifty thouſand Pounds at preſent, and a Land-Tax of a Penny in the Pound during the War, or, at the moſt, Two Pence in the Pound.</p>
+               <div type="theory">
+                  <head>Theorem.</head>
+                  <p>For the effecting all the aforeſaid Articles,</p>
+                  <p>
+                     <hi>Let a Competent Authority immediately Call in and Cry down all Clipt Money un<g ref="char:EOLhyphen"/>der ſuch a weight, ſuppoſing it to be all
+<pb n="81" facs="tcp:101656:42"/>that Money which hath loſt full half the original weight.</hi>
+                  </p>
+                  <p>This may conveniently and ſafely enough be done before any new Mo<g ref="char:EOLhyphen"/>ney be coin'd.</p>
+                  <p>
+                     <hi>When this is new Coin'd, let it be re-deli<g ref="char:EOLhyphen"/>ver'd to the reſpective Proprietors in pro<g ref="char:EOLhyphen"/>portion, by Tale, to what every one brought into the Mint by Tale.</hi>
+                  </p>
+                  <p>
+                     <hi>Then let all the rest of the Clipt Money be Called in by ſuch a Day, and Cry'd down.</hi>
+                  </p>
+                  <p>
+                     <hi>And ſuppoſing in all</hi> 2000000 <abbr>l.</abbr>
+                     <note place="margin">Poſtulat. 6, 7.</note> 
+                     <hi>Sterling ſo melted down, and the Product, after Melting, be half as much, or about</hi>
+3500000 <hi>Ounces of Silver, there may out of this be Coin'd</hi> 1250000
+<abbr>l.</abbr> 
+                     <hi>of New Money, of the ſame extrinſick value it now hath, and of ſuch an intrinſick va<g ref="char:EOLhyphen"/>lue, as that a Crown Piece ſhall weigh (now that Silver is</hi> 6 <abbr>s.</abbr> 6 <abbr>d.</abbr> 
+                     <hi>an Ounce, or</hi> 3
+<abbr>l.</abbr> 18 <abbr>s.</abbr> 
+                     <hi>the Pound Troy) Twelve-penny
+<pb n="82" facs="tcp:101656:43"/>weight, and about three grains, and have in it the intrinſick value of</hi> 4 <abbr>s.</abbr> 
+                     <hi>So that the Government hath already ſaved Two hun<g ref="char:EOLhyphen"/>dred and fifty thouſand Pound.</hi>
+                  </p>
+                  <p>Then will it be known in how ſhort time 1000000
+<abbr>
+                        <hi>l.</hi>
+                     </abbr> can be Coin<g ref="char:EOLhyphen"/>ed.</p>
+                  <p>
+                     <hi>According to that time, ſuppoſing it (many Mints being ſet up at once) to be Two Months, let a Proclamation be iſſued out, encouraging the bringing in</hi> 4000000 <hi>Ounces of Plate into the Mint, at Four reſpective Days or Weeks.</hi>
+                  </p>
+                  <p>
+                     <hi>For the firſt Million, till the end of the firſt fortnight, ſhall be paid</hi> 7 <abbr>s.</abbr> 4 <abbr>d.</abbr> per
+<hi>Ounce, which amounts to</hi> 366666 <abbr>l.</abbr> 13 <abbr>s.</abbr> 4
+<abbr>d.</abbr> 
+                     <hi>till the end of the ſecond fort night, ſhall be paid</hi> 7 <abbr>s.</abbr> 2 <abbr>d.</abbr> 
+                     <hi>an ounce, which comes to</hi>
+358333 <abbr>l.</abbr> 6 <abbr>s.</abbr> 8 <abbr>d.</abbr> 
+                     <hi>till the end of the third fortnight, ſhall be paid</hi> 7 <abbr>s.</abbr> 
+                     <hi>an ounce, amounting to</hi> 350000 <abbr>l.</abbr> 
+                     <hi>And for the last Million</hi> 6
+<abbr>s.</abbr> 10 <abbr>d.</abbr> 
+                     <hi>an
+<pb n="83" facs="tcp:101656:43"/>ounce, amounting to</hi> 341666
+<abbr>l.</abbr> 13 <abbr>s.</abbr> 4 <abbr>d.</abbr> 
+                     <hi>in all</hi> 1416666
+<abbr>l.</abbr> 13 <abbr>s.</abbr> 4 <abbr>d.</abbr> 
+                     <hi>So that for one ounce with another, the Government has paid</hi> 7 <abbr>s.</abbr> 1 <abbr>d.</abbr>
+                     <hi>an ounce.</hi>
+                  </p>
+                  <p>It may be thought, that a great deal of this may be ſaved, and per<g ref="char:EOLhyphen"/>haps Six-pence in an ounce, which amounts to One hundred thouſand Pounds, and that Six ſhillings and ſeven pence would be Temptation enough, when the Price of Silver is like to Fall.</p>
+                  <p>But I am now providing for the worſt Contingences, and the ſevereſt Suppoſitions that may be.</p>
+                  <p>Yet the Frugaleſt way, I preſume, would be, to leave the Management of this Article wholly to the <hi>Lords</hi> of the
+<hi>Treaſury,</hi> who, by publick no<g ref="char:EOLhyphen"/>tice, may vary <hi>pro re natâ,</hi> the <hi>Praemium</hi> for bringing in Plate, and perhaps may think it expedient nevertheleſs to be<g ref="char:EOLhyphen"/>gin high, and to abate the
+<hi>Praemium</hi>
+                     <pb n="84" facs="tcp:101656:44"/>according to the quantity brought in; and after one or two Abatements, People may perhaps bring it in the faſter, fearing a greater Fall: Where, as if the <hi>Lords</hi> of the
+<hi>Treaſury</hi> ſhould begin low, and afterwards be forced to raiſe the
+<hi>Praemium</hi> higher. Peoples Hopes of their ſtill advancing of it more, would reſtrain 'em from ma<g ref="char:EOLhyphen"/>king ſo much haſte as the neceſſities of State require.</p>
+                  <p>
+                     <hi>We ſuppoſe then this Silver to be Coining every Day as faſt as poſſible, and that the</hi> 250000 <abbr>l.</abbr> 
+                     <hi>ſaved by the Govern<g ref="char:EOLhyphen"/>ment out of the firſt Million, ſhall begin to pay for the Plate, as it comes in.</hi>
+                  </p>
+                  <p>
+                     <hi>Then three ounces of Silver at</hi> 6 <abbr>s.</abbr> 8
+<abbr>d.</abbr> 
+                     <hi>an ounce, Coins</hi> 20 <abbr>s.</abbr> 
+                     <hi>of the new Standard, allowing</hi> 2, 3, or 4 <abbr>
+                        <hi>d.</hi>
+                     </abbr> per <hi>ounce for Coinage ſeeing the ſetting up ſo many ſeveral Mints more than ordinary muſt be very charge<g ref="char:EOLhyphen"/>able.</hi>
+                  </p>
+                  <pb n="85" facs="tcp:101656:44"/>
+                  <p>And here muſt be noted, That let <hi>Silver</hi> Riſe or Fall as much as it will, it Alters very little the proceſs of the
+<hi>Theorem,</hi> for it need have no other ef<g ref="char:EOLhyphen"/>fects than making the
+<hi>Money</hi> bigger or leſs, unleſs the 3<hi rend="sup">d</hi> 
+                     <hi>Corolary</hi> following be admitted.</p>
+                  <p>
+                     <hi>At this Rate then when</hi> 3500000 <hi>Oun<g ref="char:EOLhyphen"/>ces of this Plate is Coin'd into MONEY it will produce after the aforeſaid rate</hi>
+1166666 <abbr>l.</abbr> 13 <abbr>s.</abbr> 4 <abbr>d.</abbr> 
+                     <hi>to which add the</hi> 250000 <abbr>l.</abbr> 
+                     <hi>paid before hand for it, and now there is paid in all for the</hi> 4000000 <hi>of Ounces of Plate</hi> 1416666
+<abbr>l.</abbr> 
+                     <hi>what it Coſt; and the King hath</hi> 500000 <hi>Ounces of Plate by Him, which at</hi> 7 <abbr>s.</abbr> 1 <abbr>d.</abbr> 
+                     <hi>an Ounce ſtands the Government in</hi> 177088 <abbr>l.</abbr> 6 <abbr>s.</abbr> 8
+<abbr>d.</abbr>
+                  </p>
+                  <p>
+                     <hi>But becauſe it cuſt the King dear for his preſent Neceſſities, the</hi> Lords <hi>of the</hi> Trea<g ref="char:EOLhyphen"/>ſury <hi>cannot allow more for it than it will pro<g ref="char:EOLhyphen"/>duce when Coin'd.</hi>
+                  </p>
+                  <pb n="86" facs="tcp:101656:45"/>
+                  <p>And if the neceſſities of State re<g ref="char:EOLhyphen"/>quire that this Silver ſhould be ſent and Coin'd in <hi>Flanders,</hi> that it may go farther there than it can here for the immediate uſe of the Souldiers, then the Commiſſioners of the Accounts will probably account for it, according to its Value beyond Sea; and then the Go<g ref="char:EOLhyphen"/>verment ſhall ſtill be a greater Loſer by it; ſo the <hi>Lords</hi> of the <hi>Treaſury</hi> can<g ref="char:EOLhyphen"/>not allow for it more perhaps than 150000 <abbr>l.</abbr> what ever it be more or leſs, the caſe will ſtand thus at the leaſt.</p>
+                  <p>
+                     <hi>There is now of New Money Coin'd,</hi> 2416666
+<abbr>l.</abbr> 13 <abbr>s.</abbr> 4<abbr>d.</abbr> 
+                     <hi>and this laſt</hi>
+150000 <abbr>l.</abbr> 
+                     <hi>being Advanced to the King for his preſent Neceſſities abroad, either to Coin in</hi> Flanders, <hi>or to ſend over in Bills, will go towards the payment of the Million of Clipt money. But if it be pro<g ref="char:EOLhyphen"/>bable as Mr.</hi> Lounds <hi>ſeems to intimate, That People may Voluntarily bring in a great deal of Plate at</hi> 6 <abbr>s.</abbr> 6
+<abbr>d.</abbr> 
+                     <hi>an Ounce; then it is much more probable, that they will be qucker in bringing it in at</hi> 6 <abbr>s.</abbr> 7 <abbr>d.</abbr> 
+                     <hi>an
+<pb n="87" facs="tcp:101656:45"/>ounce; and if ſo, the Government</hi> Saves <hi>out of my Propoſals</hi> 6 <abbr>d.</abbr> 
+                     <hi>an Ounce, which in</hi> 4000000 <hi>Ounces comes to</hi> 100000 <abbr>l.</abbr> 
+                     <hi>And then there will be</hi> 250000 <abbr>l.</abbr> 
+                     <hi>paid in recom<g ref="char:EOLhyphen"/>pence of the Clipt Money, and there is but</hi> 750000 <abbr>l.</abbr> 
+                     <hi>Remaining.</hi>
+                  </p>
+                  <p>Or put the caſe Shorter and Plainer, the Government wants
+1000000 <abbr>l.</abbr> worth of Silver, and is willing to give 25 <hi>per Cent.</hi> more for it than the com<g ref="char:EOLhyphen"/>mon price.</p>
+                  <p>If that vaſt Allowance be made for fear of a ſudden and fatal ſtop to all manner of Trade for want of Money, yet the 250000
+<abbr>l.</abbr> Saved out of the Clipt Money, will make good the Bargain.</p>
+                  <p>And then Four parts in Five will Coin a Million of Money, and ſtill there will be another 250000 <abbr>l.</abbr> worth left towards the paying of the Clipt Million, and but 750000 <abbr>l.</abbr> remains Unpaid.</p>
+                  <pb n="88" facs="tcp:101656:46"/>
+                  <p>And upon this Eaſier ſuppoſition we will proceed; becauſe it is likewiſe cheaper to the Nation than the Buying of full
+4000000 ounces of Silver.</p>
+                  <p>
+                     <hi>Then if the Parliament Orders 'em to be paid</hi> 250000
+<abbr>l.</abbr> 
+                     <hi>more, which is all that the Nation is Burdened in the Bargain: The Proprietors of the Clipt Money are Reimburſed</hi> 75
+<abbr>l.</abbr> per Cent. <hi>of what they brought to the Mint, which is more by</hi> 25 <abbr>l.</abbr> per Cent. <hi>than the intrinſick value of it was; and the other</hi> 25 <abbr>l.</abbr> per Cent. <hi>is coming towards 'em apace. For now the pre<g ref="char:EOLhyphen"/>ſent Neceſſity and the Dangers of it are ob<g ref="char:EOLhyphen"/>viated, the price of Silver begins to Fall and Settle, as the proſpect of a Plenty draws nearer;</hi> tho' we can never ſuppoſe it will fall lower than in other Countries, or much lower at all, during the War be<g ref="char:EOLhyphen"/>tween
+<hi>France</hi> and <hi>Spain. And be it at what price it will, the Merchant will from all Parts bring his Silver to the</hi> Tower, <hi>becauſe the Market is here Quick, and he is ſure of Ready-Money for what he Sells; the King can af<g ref="char:EOLhyphen"/>ford
+<pb n="89" facs="tcp:101656:46"/>now to Coin, which he could not do of late Years; And therefore a Third and Fourth Million will be ſoon bought and Coined, and the Government out of every Million bought will ſave a Fourth part.</hi>
+                  </p>
+                  <p>
+                     <hi>For the New-Coin'd Money muſt bear a proportion to the price of Silver, as four to five, and</hi> 800000 <abbr>l.</abbr> 
+                     <hi>worth of Silver is to be in</hi> 1000000 <abbr>l.</abbr> 
+                     <hi>of New Coin no more nor leſs, and out of the four Million-worth of Silver, beſides the Million of Plate the King will have Saved a fifth Million, by which gain'd Millions, the Clipt Money will be en<g ref="char:EOLhyphen"/>tirely Satisfied for at no more than</hi> 250000
+<abbr>l.</abbr> 
+                     <hi>preſent Coſt to the Government,</hi> q. e. d.</p>
+                  <p>For the caſe will ſtand thus: There will be 5000000
+<abbr>
+                        <hi>l.</hi>
+                     </abbr> of New Coin. <hi>viz.</hi> out of the Clipt Money
+1250000 <abbr>l.</abbr> out of the Plate 1250000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> (or if the laſt 250000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> be not Coin'd, but Exported, then there will be out of the Plate out 1000000 <abbr>l.</abbr>) and out of the laſt Two Million worth of SILVER Coin'd 2500000 <abbr>l.</abbr> So that there will be in the
+<pb n="90" facs="tcp:101656:47"/>Nation at leaſt Four Millions, Seven Hundred, and Fifty Thouſand Pounds New Money.</p>
+                  <p>The King, after all this, buys 750000 Ounces of
+<hi>Bullion,</hi> and coins it, without Profit, into 250000
+<abbr>
+                        <hi>l.</hi>
+                     </abbr> This makes up 5000000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> compleat, and then the Royal Mints is to be at a ſtand (as at preſent) until the Parliament ſhall have reſolved what more is to be done; our preſent Neceſſities are ſupply'd, and this, which we ſhall have, will not be diminiſhed.</p>
+                  <p>Theſe Five Millions now want a fifth part of the
+<hi>Intrinſick Value</hi> of the Coin; and unleſs a <hi>Real Value</hi> be gi<g ref="char:EOLhyphen"/>ven it to make amends for the want of the <hi>Intrinſick,</hi> and to Equal the <hi>Ex<g ref="char:EOLhyphen"/>trinſick,</hi> I have, after all, I confeſs, done nothing, according to my Fourth <hi>Axiom.</hi>
+                  </p>
+                  <pb n="91" facs="tcp:101656:47"/>
+                  <p>
+                     <hi>I humbly therefore Propoſe, That a Land-Tax may make it good, if it do not exceed Two-pence in the Pound.</hi>
+                  </p>
+                  <p>But after what manner it is to be made good, is the great Queſtion.</p>
+                  <p>If they, into whoſe Hands the new<g ref="char:EOLhyphen"/>coin'd Silver ſhall firſt come, ſhould be allowed for the Intrinſick Want of it, then, in the paying it out again they muſt tranſmit the Allowance the State gives; or elſe the Firſt Re<g ref="char:EOLhyphen"/>ceivers would be Savers, and the reſt Loſers: But if the State muſt imme<g ref="char:EOLhyphen"/>diately give the Full Allowance, then it might as well have Coin'd to the <hi>full Intrinſick Value.</hi> But the <hi>Intrinſick Value</hi> is leſſen'd, and the <hi>Real</hi> given, becauſe the Government is better qualified at preſent to pay <hi>Intereſt</hi> than
+<hi>Principal.</hi>
+                  </p>
+                  <p>
+                     <hi>Therefore an</hi> Intereſt <hi>is to be paid equi<g ref="char:EOLhyphen"/>valent to the Extrinſick Value, and fully
+<pb n="92" facs="tcp:101656:48"/>ſatisfactory for the Want of Intrinſick; that ſo the Subject may be no Loſer, and the Government put to no Difficulties.</hi>
+                  </p>
+                  <p>Beſide, that Money would return to its Intrinſick Value, if a <hi>Shilling</hi> were always to be tack'd to a <hi>Crown</hi> or
+<hi>Four-Shilling</hi> Piece; which is One of the chief things we are to avoid.</p>
+                  <p>
+                     <hi>Let this Intereſt be</hi> 5 <hi>per Cent.</hi> and let it be look'd upon as a ſufficient In<g ref="char:EOLhyphen"/>tereſt, as it better will appear to be, when I come to anſwer the Objecti<g ref="char:EOLhyphen"/>ons, which may be made to this Me<g ref="char:EOLhyphen"/>thod.</p>
+                  <p>
+                     <hi>The Intereſt of a Million of Pounds Sterling, which is wanting to make up the Real Value of the New Coin at</hi> 5 per Cent.
+<hi>amounts to Fifty thouſand Pounds</hi> per Annum.</p>
+                  <p>
+                     <hi>But, to Eaſe the Nation of half this Charge, let it be duly and carefully conſi<g ref="char:EOLhyphen"/>dered,</hi>
+                  </p>
+                  <pb n="93" facs="tcp:101656:48"/>
+                  <p>
+                     <hi>That if the preſent Poſſeſſor of an en<g ref="char:EOLhyphen"/>tire</hi>
+100 <abbr>l.</abbr> 
+                     <hi>be entitled to this Intereſt, and not of a leſs Sum, every leſs Sum will have ſuch a Value Real, as the Poſſeſſor of an entire</hi> 100 <abbr>l.</abbr> 
+                     <hi>can make of it, and will allow for it.</hi>
+                  </p>
+                  <p>
+                     <hi>And there will be no occaſion for the Government to pay Intereſt for leſſer Sums, becauſe the valuation of leſſer Sums will always bear that proportion which Mer<g ref="char:EOLhyphen"/>chants, Goldſmiths, and Bankers will re<g ref="char:EOLhyphen"/>ceive 'em at, from the leaſt Sum to the greateſt.</hi>
+                  </p>
+                  <p>If I pay in, for inſtance, to a Goldſmith Fifty pounds to day, and Fifty pounds to morrow, he will no more ſcruple to give me a Note for One hundred pounds, than if I had paid it in at once: And, if I pay my Brewer Five pounds a week, as he brings in my Drink, for twenty weeks together, he will look upon it as good Pay as if I paid him at the twenty
+<pb n="94" facs="tcp:101656:49"/>weeks end One hundred pounds toge<g ref="char:EOLhyphen"/>ther; and if Five pounds will paſs from me as the <hi>fifth part</hi> of an
+<hi>Hundred,</hi> why not, by the ſame Rule of Proportion 20 Shillings for the <hi>hundredth part?</hi> That which hath the Value of Five pound
+<hi>Lumbard-street,</hi> hath the ſame in <hi>Pater-Noſter-Row,</hi> and the ſame likewiſe at <hi>Brentford,</hi> or elſewhere: And there can be no Inſtance or Reaſon given, why Money of the like weight; Intrinſick and Extrinſick Value, ſhould not be as paſſable in little Sums as in great, ſince there is an eaſie Reſort, and at hand always; in which, without any diſtinction, they daily determine.</p>
+                  <p>Where an Hundred pound will be Received, there will Ninety nine, and Ninety eight, and ſo downwards (for, where can you ſtop?) to the ſingle Penny.</p>
+                  <pb n="95" facs="tcp:101656:49"/>
+                  <p>
+                     <hi>And of the Running Caſh of</hi> England <hi>we may reaſonably ſuppoſe, that one half is not in Sums exceeding Twenty Pounds, and they who have leſs Sums than that, will have no great Encouragement to look after Intereſt.</hi>
+                  </p>
+                  <p>The Fifth Part which Twenty Pound wants of its Intrinſick Value, is but Four Pounds, and that, at 5 <hi>per Cent.</hi> is but Four Shillings a Year; from which the trouble of Receiving by entering into Combination with others, will for the moſt part take off, and not make it worth the while.</p>
+                  <p>
+                     <hi>So that the whole</hi> Money <hi>of</hi> England, <hi>that is New Coin'd, not amounting to above</hi> 5000000 <hi>
+                        <abbr>l.</abbr> and but half that to be paid Intereſt for,</hi> viz. 2500000 <abbr>l.</abbr> 
+                     <hi>and there wanting but a Fifth Part of that,</hi> viz. 500000 <abbr>l.</abbr>
+                     <hi>the Intereſt of</hi> 500000 <abbr>l.</abbr> 
+                     <hi>at</hi> 5 per Cent.
+<hi>amounts to juſt</hi> 25000 <abbr>l.</abbr> per Annum.</p>
+                  <pb n="96" facs="tcp:101656:50"/>
+                  <p>
+                     <hi>But then, ſuppoſing that Intereſt be de<g ref="char:EOLhyphen"/>manded for</hi> 3/5 <hi>of the New-coin'd Money, and that by an unexpected Combination eve<g ref="char:EOLhyphen"/>ry Sum of Five Pounds ſhould be brought in, yet then the whole Intereſt amounts to no more than</hi> 30000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> per Annum.</p>
+                  <p>And the Caſe ſtands thus:</p>
+                  <p>The Parliament hath Borrow'd of the whole People of
+<hi>England</hi> a Mil<g ref="char:EOLhyphen"/>lion of Pounds Sterling, and no more, to be repay'd at the end of the War; and in the mean time, till it be repay'd, they give Five Pounds <hi>per Cent.</hi> Intereſt upon a Land-Tax.</p>
+                  <p>Thus <hi>the Clipp'd Money is all Call'd in, and Satisfied for; there hath been lit<g ref="char:EOLhyphen"/>tle time between Calling back of the Old, and Paying back the New, by bring<g ref="char:EOLhyphen"/>ing in</hi> 1000000 <hi>
+                        <abbr>l.</abbr> worth of Plate ſpeedi<g ref="char:EOLhyphen"/>ly and voluntarily into the</hi> Mint, <hi>an effectual Stop is put to the Exportation,
+<pb n="97" facs="tcp:101656:50"/>melting down, and hoarding up of Coin'd Money; Importation of Silver from all Parts Encourag'd, the Current Coin of</hi> ENGLAND <hi>Encreas'd; the Purity and Denomination of the Coin Continued; and all at the preſent Expence of Two hundred and fifty thouſand Pounds, and a Yearly Land-Tax of One Penny in the Pound during the War,</hi> q. e. d.</p>
+                  <p>The only Difficulty that remains, is, After what manner the Intereſt ſhall be paid.</p>
+                  <p>But, if there is no more than <hi>Difficulty</hi> in it, I deſire it may be Conſider'd, What Great Difficulties the People of
+<hi>ENGLAND</hi> at preſent undergo, in the Want of ſuch a Regulation: What Difficul<g ref="char:EOLhyphen"/>ties are in every Market-Shop, and Houſe of Trade; and what Great Diſorders are Daily like to enſue: Let Bankers, Goldſmiths, Merchants, and Caſh-keepers, conſider the Dif<g ref="char:EOLhyphen"/>ficulties
+<pb n="98" facs="tcp:101656:51"/>they lye under at preſent, and the much greater Diſadvantages they muſt be ſubject to, if the Coin of
+<hi>England</hi> ſhould not have a <hi>Real</hi> Value.</p>
+                  <p>But, to make the Difficulty ſeem much leſs than may at Firſt be ima<g ref="char:EOLhyphen"/>gin'd, I humbly propoſe this follow<g ref="char:EOLhyphen"/>ing Method.</p>
+                  <p>
+                     <hi>Let the Days of its Payment be fix'd by</hi> PARLIAMENT,
+<hi>either Quar<g ref="char:EOLhyphen"/>terly, Annually, or Triennially. If the Eſtabliſh'd Intereſt be Five Pounds</hi> per Cent. <hi>then, perhaps, Annually will be thought moſt expedient, in ſome Month when the Days are long. If the Wiſdom of</hi> Parliament <hi>ſhall think fit to give more Intereſt than Five Pounds</hi> per Cent. <hi>then there is Viſible Reaſon, why it ſhould be Quarterly. If leſs than Five Pounds</hi> per Cent. <hi>a Triennial Payment may ſuffice.</hi> But ſuppoſe it Yearly.</p>
+                  <pb n="99" facs="tcp:101656:51"/>
+                  <p>
+                     <hi>Let Three hundred Commiſſioners be na<g ref="char:EOLhyphen"/>med by</hi> Parliament, <hi>One hundred of which for</hi> London, Weſtminſter,
+<hi>and</hi> Southwark, <hi>the Two hundred for the Country, to be not above Twenty Miles diſtant from one another, ſo that no body can live farther off than Ten Miles from one Commiſſioner or other.</hi>
+                  </p>
+                  <p>
+                     <hi>Let theſe Commiſſioners be the moſt Subſtantial Gentlemen or Citizens in the moſt Popular Towns and Cities in</hi> En<g ref="char:EOLhyphen"/>gland,
+<hi>giving in ſufficient Security to the Government for Performance of Their Trust.</hi>
+                  </p>
+                  <p>
+                     <hi>At the Day appointed let the Money be brought to the Commiſſioners Houſes in Hundred-pound Baggs, and there open'd and weigh'd, and then ſeal'd up with the Proprietor's Seal, in the preſence of the ſaid Commiſſioner, Entering down in a Regiſter every man's Name in one Co<g ref="char:EOLhyphen"/>lumn, the Weight of the Money in ano<g ref="char:EOLhyphen"/>ther
+<pb n="100" facs="tcp:101656:52"/>Column, and the Intereſt it amounts to in a third.</hi>
+                  </p>
+                  <p>
+                     <hi>Let none be Receiv'd after Twelve of the Clock at Noon, and none Re-delive<g ref="char:EOLhyphen"/>red till One of the Clock, to prevent Frauds in bringing the ſame Money twice for the ſame Intereſt.</hi>
+                  </p>
+                  <p>
+                     <hi>Then, in the Afternoon, let every man's proper and individual</hi> Money, <hi>Seal'd up as aforeſaid, and Weighed again in the ſight of the Proprietor, be deliver'd, with the</hi> Intereſt <hi>due for it.</hi>
+                  </p>
+                  <p>
+                     <hi>For which One Days Trouble in a Year, I do ſuppoſe, the Government may allow the Commiſſioners Twenty Pound a man; which amounting to Six thouſand Pounds</hi> per Annum, <hi>for all the Commiſſioners of</hi> ENGLAND, <hi>and ſuppoſe Three of the Five millions, whereas I ſuppoſed at first</hi> 2500000 <hi>
+                        <abbr>l.</abbr> only to demand Intereſt, it will amount to but Thirty thouſand Pounds</hi> per Annum, <hi>and this Six thou<g ref="char:EOLhyphen"/>ſand Pounds</hi> per Annum <hi>for the Com<g ref="char:EOLhyphen"/>miſſioners
+<pb n="101" facs="tcp:101656:52"/>added, makes but Six and thirty thouſand Pounds</hi> per Annum.</p>
+                  <p>
+                     <hi>Now, whereas a Land-Tax of Four Shillings in the Pound amounts to</hi> 2000000 <hi>
+                        <abbr>l.</abbr> a Tax of a Penny in the Pound a<g ref="char:EOLhyphen"/>mounts to</hi> 41666 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 13 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 4
+<hi>
+                        <abbr>d.</abbr> ſo that</hi> 5666 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 13
+<abbr>
+                        <hi>s.</hi>
+                     </abbr> 4 <abbr>
+                        <hi>d.</hi>
+                     </abbr> per Annum
+<hi>Re<g ref="char:EOLhyphen"/>mains.</hi>
+                  </p>
+                  <p>
+                     <hi>Allow the Commiſſioners then Thirty Pounds apiece, and there remains</hi> 2666 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 13 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 4
+<hi>
+                        <abbr>d.</abbr> for a Superintendant, Auditors, Regiſters, Regiſter-Books, and other in<g ref="char:EOLhyphen"/>cident Charges; and the whole matter is brought within a Tax of a Penny in the Pound,</hi> q. e. d.</p>
+                  <p>Now, as to the Hoarded Money, the Mill'd and Hammer'd Money of Full Weight, I humbly am of the Opinion, That no Notice at all be taken of it by the Government; and my Reaſons are: That it will have an uncertain Value, according to Peo<g ref="char:EOLhyphen"/>ples
+<pb n="102" facs="tcp:101656:53"/>Opinion; and, that Uncertainty of Eſtimation, as well as the Intrin<g ref="char:EOLhyphen"/>ſick Value, will cauſe it, without any any Edict or Precept, to be melted down.</p>
+                  <p>For, a great deal of it is now kept up, only to ſee what things will come to; and what Advantage can be made of it: But when People ſee the Parliament has Conquer'd the Difficulty, and that there is a great Plenty of Money ſtirring about again, they will be baulk'd of their Expe<g ref="char:EOLhyphen"/>ctations, and take Advantage of the Firſt of the Market; this will con<g ref="char:EOLhyphen"/>duce to the Cheapneſs of Bullion, and cauſe a Plenty: And if any con<g ref="char:EOLhyphen"/>tinue ſtill hoarded, it will be by People only who have an irremedia<g ref="char:EOLhyphen"/>ble Humour that way; and 'tis bet<g ref="char:EOLhyphen"/>ter they ſhould hoard that for which the Government pays no Intereſt, than to keep Unemploy'd Money by
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> at the expence of the Publick.</p>
+                  <pb n="103" facs="tcp:101656:53"/>
+                  <p>And as to the Paying of our Ar<g ref="char:EOLhyphen"/>mies Abroad, I humbly propoſe, That the <hi>Parliament</hi> may always give His Majeſty ſuch an Allowance for that Uſe, as His Majeſty may be enabled to Export ſo much Uncoin'd Silver as is neceſſary to the carrying on of ſo Glorious a War.</p>
+                  <p>Which Uncoin'd Silver will for the moſt part find its way back again, be<g ref="char:EOLhyphen"/>cauſe the carrying over ſo much eve<g ref="char:EOLhyphen"/>ry Year will glut that place to which 'tis carryed; ſo that Silver will be<g ref="char:EOLhyphen"/>come Cheap there, and they muſt diſgorge at the beſt Market; which <hi>England,</hi> in all probability, will be. And the effect of that Over-ballance which Forreigners muſt, as caſes now ſtand, get by us; cannot be carryed out of the Nation, but in other Com<g ref="char:EOLhyphen"/>modities beſides Silver.</p>
+                  <pb n="104" facs="tcp:101656:54"/>
+                  <p>For Silver Uncoin'd they Sell, and Silver Coin'd they cannot afford to carry away; So that our own Com<g ref="char:EOLhyphen"/>modities are like to be bartered for Silver, and that conduces to bring the ballance of Trade even.</p>
+                  <p>And here I go no farther, but leave the Queſtion to better Underſtand<g ref="char:EOLhyphen"/>ings.</p>
+                  <p>Queſt. <hi>Whether Silver bear<g ref="char:EOLhyphen"/>ing an higher Price here than elſe<g ref="char:EOLhyphen"/>where, and coming to a Quicker Market, will not naturally and eaſily force an Exportation of our own Commodities, when it ſhall be<g ref="char:EOLhyphen"/>come altogether impracticable to Export our Coin?</hi>
+                  </p>
+               </div>
+               <div n="1" type="corollary">
+                  <pb n="105" facs="tcp:101656:54"/>
+                  <head>Corol. I.</head>
+                  <p>
+                     <hi>Note,</hi> That the Price of Silver Bullion being ſubject to Vary, the difference between the <hi>Intrinſick,</hi> and the
+<hi>Real</hi> Value, ought to be Conſi<g ref="char:EOLhyphen"/>derable; Becauſe, if they ſhould be too near one another, the Additional Value would be ſo Small, that when Silver Riſes, the Goldſmiths would be Tempted to Melt down the New Coin, when they can get almoſt as Much by that Practice, as they can do by receiving Intereſt, or by paſ<g ref="char:EOLhyphen"/>ſing it away for Principal.</p>
+                  <p>Nor muſt the Two ſeveral Values be too far Different one from the other, leſt Foreigners be Tempted to Coun<g ref="char:EOLhyphen"/>terfeit our Coin.</p>
+                  <pb n="106" facs="tcp:101656:55"/>
+                  <p>I don't mean by ſending Us over ſuch a Counterfeit as ſhall be of Leſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> intrinſick Value than our Own; bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> they can Afford all the Charge of Curious Coinage, and Pure Silver, and Full Weight, and Hazard of Im<g ref="char:EOLhyphen"/>porting it contrary to all Laws that We can Make; If any more conſi<g ref="char:EOLhyphen"/>derable Sum, than Twenty
+<hi>per Cent.</hi> could be Gain'd by ſuch Importation<g ref="char:punc">▪</g> But no body can afford all the Charge and Hazard, if the Profit be no Greater, and the Puniſhment Capital.</p>
+               </div>
+               <div n="2" type="corollary">
+                  <head>Corol. II.</head>
+                  <p>Nevertheleſs, proviſion may be Made, that all
+<hi>Counterfeit Money</hi> ſhall be Confiſcated by a Summary Proceſs, to be Tryed by a Jury of <hi>Moneyers,</hi> for every Sum above <hi>Five Pounds;</hi> and for Leſs Sums, able and ſubſtan<g ref="char:EOLhyphen"/>tial
+<hi>Goldſmiths</hi> ſhall be Commiſſio<g ref="char:EOLhyphen"/>ned and Authoriſed to end Diſputes,
+<pb n="107" facs="tcp:101656:55"/>Cutting it Aſunder before the Owners Face; and Charging themſelves in a Book kept for that purpoſe, as Debters to the King for the ſame individual pieces, which at the General Quarter Seſſions they ſhall deliver for the KING's Uſe.</p>
+                  <p>Some ſuch Method as This, would make people more Cautious in taking Counterfeit Money; whereas now they Take what they themſelves Know to be ſo, which hath given great Encou<g ref="char:EOLhyphen"/>ragement to Counterfeiters.</p>
+                  <p>And if I may be Well Heard, I don't at all Queſtion, but to ſhew a Way; how all Counterfeit Money may be eaſily Known; let it be Waſh'd, Plated; of mixt Metal, or pure Silver; Which is the next piece of Service of this Nature, that I deſigne my Coun<g ref="char:EOLhyphen"/>try, GOD continuing my Life and Health.</p>
+               </div>
+               <div n="3" type="corollary">
+                  <pb n="108" facs="tcp:101656:56"/>
+                  <head>Corol. III.</head>
+                  <p>I humbly Propound to the Diſqui<g ref="char:EOLhyphen"/>ſition of Better Judgments; Whether the New Coin ought not alwayes t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be of the ſame continued Weight, not withſtanding any Variations in the Price of Bullion; and that not the Weight of Coin, but the Aforemen<g ref="char:EOLhyphen"/>tioned Intereſt be Varied from Yea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to Year according to the Price o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Bullion.</p>
+                  <p>The Advantages and Convenience of what I have Propoſed, is, I hope by this time, ſomewhat Evident; bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> before I Reckon 'em up, it may per<g ref="char:EOLunhyphen"/>haps be Expected that I ſhould Faith<g ref="char:EOLhyphen"/>fully and Candidly ſet down all tho<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>Objections</hi> which have Occurr'd to me whilſt I have been Writing theſe Pa<g ref="char:EOLhyphen"/>pers.</p>
+                  <pb n="109" facs="tcp:101656:56"/>
+                  <p>The moſt Material I will: And they are Theſe.</p>
+               </div>
+               <div n="1" type="objection">
+                  <head>OBJECT. I. <hi>Now, if it be Objected, That Five Pounds</hi> per Cent. <hi>for want of</hi> Silver, <hi>in an Hundred Pound is too little, ſeeing an Hundred Pound Bagg-full is entitled to no more than Twen<g ref="char:EOLhyphen"/>ty Shillings a Year:</hi>
+                  </head>
+                  <div type="answer">
+                     <head>I Anſwer,</head>
+                     <p>THAT if a Man be contented to put in his Money into any of the New Banks, at 3 <hi>
+                           <abbr>l.</abbr> per Cent.</hi> 'tis better worth to lend it at 5 <hi>per Cent. per Annum,</hi> upon as good Security.</p>
+                     <pb n="110" facs="tcp:101656:57"/>
+                     <p>If it be reply'd, That a Man may take it out of a Bank when he will, and his Money is always at Com<g ref="char:EOLhyphen"/>mand: I anſwer, It is much more ſo when he has it in his own Cuſtody; For, he who ſhall have Four hundred Crown-pieces by him, can make as much uſe of it to all Intents and Purpoſes, but of Melting or Export<g ref="char:EOLhyphen"/>ing, as if it were of an Intrinſick Value; and then ſure he who ha<g ref="char:EOLhyphen"/>ving Four hundred Pieces of Money by him of a Real Worth, and ap<g ref="char:EOLhyphen"/>plicable to any Lawful Uſe, can make Twenty Shillings a Year Ad<g ref="char:EOLhyphen"/>vantage by Keeping 'em; hath much the better of him who hath Four hundred Pieces of other Money by him, of no more <hi>Real</hi> Value, nor more transferrable, and hath no Pro<g ref="char:EOLhyphen"/>fit by 'em, whilſt they are in his Hands.</p>
+                     <pb n="111" facs="tcp:101656:57"/>
+                     <p>And whereas it may be ſaid, <hi>No Man can be intitled to the Intereſt of that</hi> 20 <abbr>l.</abbr> 
+                        <hi>due to him from the Government, un<g ref="char:EOLhyphen"/>leſs he keeps</hi> 80 <hi>more dead by him, as a Ve<g ref="char:EOLhyphen"/>hicle to convey the Intereſt of the</hi> 20 <abbr>l.</abbr> 
+                        <hi>to him.</hi> I anſwer the Government doth not intend to give Encouragement that Men ſhould keep more Money by 'em than they have, or may have Occaſion for.</p>
+                     <p>That is a ſort of hoarding which we are to prevent.</p>
+                     <p>And therefore this 5 <hi>
+                           <abbr>l.</abbr> per Cent.</hi> is not given as an Intereſt for dead and un<g ref="char:EOLhyphen"/>employ'd Money, but to aſcertain uni<g ref="char:EOLhyphen"/>verſally the real Value of it, and to take off all the Objections that are made againſt a mere extrinſick Value.</p>
+                     <p>But if the Wiſdom of the <hi>Parliament</hi> thinks fit to give 10 <hi>
+                           <abbr>l.</abbr> per Cent</hi> Intereſt, whereby every 100
+<abbr>
+                           <hi>l.</hi>
+                        </abbr> of new Coin'd Money will be entitled to 40
+<hi>
+                           <abbr>s.</abbr> per Annum</hi> Intereſt; then the whole Inte<g ref="char:EOLhyphen"/>reſt
+<pb n="112" facs="tcp:101656:58"/>of 500000 <abbr>
+                           <hi>l.</hi>
+                        </abbr> which the 2500000 <abbr>
+                           <hi>l.</hi>
+                        </abbr> half of the 5000000
+<abbr>
+                           <hi>l</hi>
+                        </abbr> wants of intrin<g ref="char:EOLhyphen"/>ſick Value, amounts at 10
+<hi>
+                           <abbr>l.</abbr> per Cent.</hi> but to 50000 <hi>
+                           <abbr>l.</abbr> per Annum.</hi>
+                     </p>
+                     <p>Or ſuppoſe by Combination 3/5 of the 5000000
+<abbr>
+                           <hi>l.</hi>
+                        </abbr> demand Intereſt, then will the whole Intereſt amount to but 60000 <hi>
+                           <abbr>l.</abbr> per Annum,</hi> which with all the incident Charges, will be defrayed for little more than a Three-half-penny in the Pound Land-Tax; and for much leſs than 2 <abbr>
+                           <hi>d.</hi>
+                        </abbr> in the Pound.</p>
+                     <p>And I am not at all againſt an Inte<g ref="char:EOLhyphen"/>reſt of 10
+<hi>
+                           <abbr>l.</abbr> per Cent.</hi> becauſe beſide the preſent Advantage it gives, it doth aſcertain to the People of <hi>England,</hi> not only a Promiſe that the <hi>Parliament</hi> will; but that there is a reaſon of good Huſ<g ref="char:EOLhyphen"/>bandry likewiſe, why the Parliament ſhould as ſoon as poſſible ſave the Na<g ref="char:EOLhyphen"/>tion that Annual Charge, by the pay<g ref="char:EOLhyphen"/>ing of the principal Million that is wan<g ref="char:EOLhyphen"/>ting.</p>
+                  </div>
+               </div>
+               <div n="2" type="objection">
+                  <pb n="113" facs="tcp:101656:58"/>
+                  <head>
+                     <hi>Object.</hi> II. <hi>Theſe Ends may as well be purſued by transferable Notes or Bills with In<g ref="char:EOLhyphen"/>tereſt.</hi>
+                  </head>
+                  <p>I anſwer that they cannot in the leaſt, becauſe here is
+4 <abbr>
+                        <hi>l.</hi>
+                     </abbr> in 5 <abbr>
+                        <hi>l.</hi>
+                     </abbr> better ſe<g ref="char:EOLhyphen"/>cur'd than any Notes in the World can pretend to: for every Man hath ſo much of his Money in his Pocket; and that, for which the Security is given, is diviſible into the 5th. part of a Six<g ref="char:EOLhyphen"/>pence, which transferable Bills can<g ref="char:EOLhyphen"/>not be.</p>
+               </div>
+               <div n="3" type="objection">
+                  <head>
+                     <hi>Object.</hi> III. <hi>That if this Method will hold, the intrinſick Value of Money may be but half as little as I propoſe, and the Subject will be al<g ref="char:EOLhyphen"/>ways in fear of farther Alterations.</hi>
+                  </head>
+                  <pb n="114" facs="tcp:101656:59"/>
+                  <p>
+                     <hi>Anſw.</hi> This I confeſs would be a very material Objection againſt Mr. <hi>Lound</hi>'s Method, but hath no force in ours, becauſe the Government ſaves nothing by leſſening the intrinſick Va<g ref="char:EOLhyphen"/>lue; for what it ſaves at preſent, it muſt pay Intereſt for, and Principal too at the long run; beſides, the Go<g ref="char:EOLhyphen"/>vernment aims at nothing but to re<g ref="char:EOLhyphen"/>ctifie the Coin, and keep it from being imbezil'd.</p>
+               </div>
+               <div n="4" type="objection">
+                  <head>
+                     <hi>Object.</hi> IV. <hi>The Money of</hi> England <hi>will be too much for</hi> 300 <hi>Men to receive in one Day.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> It is but 10000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> a Man one with another; <hi>i. e.</hi> but 100 hundred Pound-bags, which may ve<g ref="char:EOLhyphen"/>ry well be weighed and ſeal'd up, and entered in a Book in 5 hours time;
+<hi>viz.</hi> 20 in an hour; and as for the great Banks and Caſhes of
+<hi>England,</hi> ſuch as the <hi>Royal Bank, Eaſt-India Com<g ref="char:EOLhyphen"/>pany,</hi> and the like, they need not re<g ref="char:EOLhyphen"/>move
+<pb n="115" facs="tcp:101656:59"/>their Money at all; but Com<g ref="char:EOLhyphen"/>miſſioners may be ſworn and ſent to their reſpective Treaſuries, taking ſuf<g ref="char:EOLhyphen"/>ficient Security of the ſaid Treaſurers and Caſhiers, that none of the ſaid Money ſhall be remov'd or touch'd in 24 hours.</p>
+               </div>
+               <div n="5" type="objection">
+                  <head>
+                     <hi>Object.</hi> V. <hi>It will be a great Trouble to carry</hi> 100 <abbr>l.</abbr> 10 <hi>Miles for</hi> 20 <abbr>s.</abbr>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> It may not be 100 Men's Caſe in all the Nation, and no Man is forc'd to carry it; and he who don't carry it, hath loſt nothing but what he might have gained.</p>
+                  <p>For this is all clear Gains to every Man, who as ſoon as he has received his 20 <abbr>
+                        <hi>s.</hi>
+                     </abbr> can keep the 20
+<abbr>
+                        <hi>s.</hi>
+                     </abbr> and pay a Debt with the 100
+<abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </p>
+               </div>
+               <div n="6" type="objection">
+                  <pb n="116" facs="tcp:101656:60"/>
+                  <head>
+                     <hi>Object.</hi> VI. <hi>The want of a leſs Intrinſick Value, than</hi> 20 <abbr>
+                        <hi>l.</hi>
+                     </abbr> per Cent. <hi>will anſwer all the aforeſaid Ends.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> Leſs will not ſecure it againſt Exportation.</p>
+                  <p>Foreigners have a knack at raiſing the price of Silver to draw over our Money to 'em; and I hear they can af<g ref="char:EOLhyphen"/>ford what they now daily do,
+<hi>viz.</hi> To Export, rather than fail, Clipt Money; and the only way to keep our Money at Home, <hi>Is to fix, during the War, one conſiderable part of its Value to the Kingdom;</hi> and when thoſe Foreign<g ref="char:EOLhyphen"/>ers who muſt deal with us, cannot Export our Money, but with great diſ<g ref="char:EOLhyphen"/>advantage, they will be forced to take our Commodities in lieu of it, and be as induſtrious to make
+'em valuable a<g ref="char:EOLhyphen"/>broad as we are. And as to that No<g ref="char:EOLhyphen"/>tion that we muſt not glut the Markets
+<pb n="117" facs="tcp:101656:60"/>abroad with our Commodities, it is a Vulgar Errour unleſs we make this di<g ref="char:EOLhyphen"/>ſtinction, That 'tis dangerous when our <hi>Engliſh</hi> Factories glut the Market; for when Foreigners ſee the Market full, they combine together to keep down the Price, knowing that we muſt Sell; but then Foreigners who are better ac<g ref="char:EOLhyphen"/>quainted with their own Markets and Fairs than we are, and can ſpread a Trade much farther than our Factories can do, when they Export our Com<g ref="char:EOLhyphen"/>modities and cannot Trade at all with us without exporting 'em; they can ſhift from one place to another, and open ſecret Paſſages of Commerce, not yet found out.</p>
+                  <p>If the <hi>Portugueſes</hi> for inſtance could not have Money for their Wine, would they (I deſire to know) rather leave of Trading with us, than take our Cloth for their Wine. Or if heretofore we had drank no
+<hi>French</hi> Wine, but what we had paid for in Tin, would they have found a Vent for our Tin,
+<pb n="118" facs="tcp:101656:61"/>or ploughed up their own Vine<g ref="char:EOLhyphen"/>yards?</p>
+               </div>
+               <div n="7" type="objection">
+                  <head>
+                     <hi>Object.</hi> VII. <hi>This will be forcing Foreigners then, to Ex<g ref="char:EOLhyphen"/>port our Commodities.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> Not at all: For if the Bal<g ref="char:EOLhyphen"/>lance of Trade ſhall continue after all, to our diſadvantage, here's nothing in all this matter that hinders our ex<g ref="char:EOLhyphen"/>porting Bullion.</p>
+                  <p>But if 'tis abſolutely neceſſary to ex<g ref="char:EOLhyphen"/>port Bullion to make good the Ballance of Trade, then we ſhould take the more care, not to export more than is abſolutely neceſſary; and whilſt we carry on our Trade abroad, not to let this at home be at a ſtand, but ſecure Money enough for the Nations In-land Trade, and to pay the Taxes without pretence of impoſſibility.</p>
+               </div>
+               <div n="8" type="objection">
+                  <pb n="119" facs="tcp:101656:61"/>
+                  <head>
+                     <hi>Object.</hi> VIII. <hi>Five Millions will not be half enough for our In-land Trade.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> And I am clearly of that Opi<g ref="char:EOLhyphen"/>nion; and that Ten Millions is little enough, or elſe what need had there been, to have Coin'd Fifteen Millions in three Reigns, as the moſt induſtrious Mr.
+<hi>Lounds</hi> hath delivered to us?</p>
+                  <p>But we are providing for a preſent neceſſity and not abundance.</p>
+                  <p>And yet ſhould we Coin five Milli<g ref="char:EOLhyphen"/>ons more, in all Ten Millions; leſs than 2 <abbr>
+                        <hi>d.</hi>
+                     </abbr> in the Pound Land-Tax, would pay Intereſt for all, and the Million gained out of it would ſave 2
+<abbr>
+                        <hi>s.</hi>
+                     </abbr> in the Pound that Year, which is mak<g ref="char:EOLhyphen"/>ing a very good Bargain for the Go<g ref="char:EOLhyphen"/>vernment.</p>
+                  <p>But you may vary the <hi>Postulata,</hi> as I ſaid before, how you pleaſe.</p>
+               </div>
+               <div n="9" type="objection">
+                  <pb n="120" facs="tcp:101656:62"/>
+                  <head>
+                     <hi>Object.</hi> IX. <hi>The new Coined Money will appear very ſmall to the Eye.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> Go which way you will, it muſt be ſmaller than it was, or of greater value, becauſe Bullion is dear<g ref="char:EOLhyphen"/>er than when the Mill'd Money was Coin'd, and if the new Coin'd Money were to have an Intrinſick Value, it muſt neceſſarily be ⅓ leſs than it now is, and according to theſe Propoſals it will be but about ⅓.</p>
+                  <p>Suppoſing Silver at this extraordina<g ref="char:EOLhyphen"/>ry Price, I don't ſee how it can poſſi<g ref="char:EOLhyphen"/>bly be larger than as 8 to 10, and this Propoſition is as 8 to 12.</p>
+               </div>
+               <div n="10" type="objection">
+                  <pb n="121" facs="tcp:101656:62"/>
+                  <head>
+                     <hi>Object.</hi> X. The Mint is the Pulſe of the Common-Wealth,
+<note place="margin">
+                        <hi>Cotton Poſt.</hi> p. 294.</note>
+                     <hi>and this would diſcover us to be in a weak Condition.</hi>
+                  </head>
+                  <p>
+                     <hi>Anſw.</hi> It will diſcover us doubtleſs, to be in a borrowing Condition upon good Intereſt and Security; but that's the worſt of it; whereas if the Mint ſhould only give us an imaginary Va<g ref="char:EOLhyphen"/>luation, then we are diſcovered to be in an imaginary Habit of Wealth.</p>
+               </div>
+            </div>
+         </div>
+         <div n="9" type="chapter">
+            <pb n="122" facs="tcp:101656:63"/>
+            <head>CHAP. IX. <hi>Advantages and Conveniencies moſt of which may be expected from this Method.</hi>
+            </head>
+            <p n="1">1. THE Subject will be aſſured by the giving intire Satisfaction for Clipt Money, that the Coin of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> Minted by Authority, is an invio<g ref="char:EOLhyphen"/>lable and an unalterable Property which the
+<hi>Parliament</hi> will for ever maintain, even in the worſt of times; the Conſi<g ref="char:EOLhyphen"/>deration of which, will give the real and additional Value of the new Coin'd Money, a Credit throughout the World. And People will be the better able to pay Taxes if they are at no loſs by their Clipt Money.</p>
+            <pb n="123" facs="tcp:101656:63"/>
+            <p n="2">2. The Denomination of the Silver Coin will not hereby be raiſed above the real value.</p>
+            <p n="3">3. The Trade and Circulation of Bullion in and out of the Kingdom, will not be at all hinder'd, ſo that as much Silver and Gold may be yearly tranſported into <hi>Flanders,</hi> as the occaſions of the War require, without loſs of Coinage; and Money which is the Vi<g ref="char:EOLhyphen"/>tal warmth of In-land Trade, by which People are enabled to pay Taxes, al<g ref="char:EOLhyphen"/>ways preſerved among us.</p>
+            <p n="4">4. The frequent Riſes and Falls of Money beyond Sea, will be no longer an effectual trick to cheat us, as it hath hitherto been.</p>
+            <p n="5">5. If it ſhould after all be exported, it will be 20
+<hi>
+                  <abbr>l.</abbr> per Cent.</hi> more to the Exporters loſs, than if it had a full In<g ref="char:EOLhyphen"/>trinſick Value.</p>
+            <p n="6">6. That 20 <hi>
+                  <abbr>l.</abbr> per Cent.</hi> which the Ex<g ref="char:EOLhyphen"/>porters loſe, will be gain'd by the Go<g ref="char:EOLhyphen"/>vernment;
+<pb n="124" facs="tcp:101656:64"/>becauſe for what is export<g ref="char:EOLhyphen"/>ed, no Intereſt will be paid, nor no Principal at the end of the War.</p>
+            <p n="7">7. The Coin'd Silver of the whole Nation, may in times of Peace be re<g ref="char:EOLhyphen"/>duced to the old Standard, and Intrin<g ref="char:EOLhyphen"/>ſick Value, without recoining or alter<g ref="char:EOLhyphen"/>ing the Species.</p>
+            <p n="8">8. Thoſe who hide and hoard up their Money, to defeat the Intents of a <hi>Tax</hi> upon it, will be diſappointed of their Ends, and become greater Loſers than by producing it; whereby Mo<g ref="char:EOLhyphen"/>ney may be affected by
+<hi>Taxes,</hi> which now cannot ſo eaſily be done.</p>
+            <p n="9">9. All the Benefits and Advantages which can be propoſed by a raiſing of the extrinſick and denominated Value of Money, will be hereby ſecured, and all the Inconveniencies of that Me<g ref="char:EOLhyphen"/>thod obviated.</p>
+            <p n="10">10. All the Advantages which can be propoſed to the Publick by Coining
+<pb n="125" facs="tcp:101656:64"/>after the old Standard, will hereby be effected, at a very inconſiderable pre<g ref="char:EOLhyphen"/>ſent Expence, and no more than one Million at the end of the War.</p>
+            <p n="11">11. Guineas will hereby fall in their Eſtimation, by an eaſie, natural, and gradual Abatement.</p>
+            <p n="12">12. The Plenty of Money will be much greater, the Intrinſick Value more, and the Certainty of what a Man takes clearer than is at preſent.</p>
+            <p>
+               <hi>And the real Value of our Coin, as great as ever, to all Intents and Purpoſes, but of Exporting, Melting-down, and Hiding</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
